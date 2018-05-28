@@ -212,6 +212,11 @@ A container can get its stuff from:
 * NFS or SMB
 * even removable media
 
+In the VM world, we learned it's better to share the core OS than to
+necessarily share the root filesystem. `/bin`, `/lib`, `/usr` are what
+need to be pinned down and made replaceable. This is just as true for
+containers as it is for virtual machines.
+
 ## Point N Shoot
 
 If containers are all about rapid deployment,
