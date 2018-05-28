@@ -2,6 +2,16 @@
 
  ... or "shared op sys woulda been better".
 
+A long, long time ago (but I can still remember),
+we had this idea for shared operating systems among virtual machines.
+Idea nuthin, it was reality. It was beautiful. It was flawed.
+
+The basic idea was sound, remains sound, and is sound for the current
+trends in virtualization (containers versus full machines).
+Here's some rambling about that.
+
+## Remembering Read-Only Root
+
 Michael MacIsaac posted on the LINUX-390 list (and the IBMVM list) ...
 
     I stumbled onto the first "Read-only root" paper that the guys
@@ -10,13 +20,15 @@ Michael MacIsaac posted on the LINUX-390 list (and the IBMVM list) ...
     and tried to be respectful. Below is the chat text, which in the
     Turing Test, I would vote yes, that was a live sapien (perhaps I failed?).
 
-So the point of the post was speculating "a bot or not a bot?".
-But the subject line and the reason Mike was chatting with the rep
-in the first place was all about read-only root years ago and now today.
+So the point of Mike's post was speculating "a bot or not a bot?".
+But the subject line, and the reason Mike was chatting with the rep
+in the first place, was all about read-only root years ago and now today.
 
     I look back and now reflect - are Containers and Docker the new
     "read-only root"? Is mainframe playing catch-up 10 years later?
     Can we somehow lead?
+
+Can we somehow lead? Why would we not lead?
 
 Containers work fine on "z" hardware.
 It's possible that containers work *better* on z.
