@@ -4,7 +4,7 @@
 
 A long, long time ago (but I can still remember),
 we had this idea for shared operating systems among virtual machines.
-Idea nuthin, it was reality. It was beautiful. It was flawed.
+Idea nuthin! It was reality! It was beautiful. It was flawed.
 
 The basic idea was sound, remains sound, and is sound for the current
 trends in virtualization (containers versus full machines).
@@ -12,7 +12,7 @@ Here's some rambling about that.
 
 ## Remembering Read-Only Root
 
-Michael MacIsaac posted on the LINUX-390 list (and the IBMVM list) ...
+Mike MacIsaac posted on the LINUX-390 list (and the IBMVM list) ...
 
     I stumbled onto the first "Read-only root" paper that the guys
     from Nationwide basically wrote. While on the Redbooks website,
@@ -20,7 +20,15 @@ Michael MacIsaac posted on the LINUX-390 list (and the IBMVM list) ...
     and tried to be respectful. Below is the chat text, which in the
     Turing Test, I would vote yes, that was a live sapien (perhaps I failed?).
 
-So the point of Mike's post was speculating "a bot or not a bot?".
+"The guys from Nationwide" being Steve and me, but Michael plays down
+his part.
+
+The R/O root "Redpaper" is old.
+I was surprised to see my name on it. Had forgotten.
+Mike and Steve did most of the work. It was hard work and a hard recipe.
+Later, Kyle Black joined Steve and Mike on a longer piece.
+
+The point of Mike's post was speculating "a bot or not a bot?".
 But the subject line, and the reason Mike was chatting with the rep
 in the first place, was all about read-only root years ago and now today.
 
@@ -28,20 +36,19 @@ in the first place, was all about read-only root years ago and now today.
     "read-only root"? Is mainframe playing catch-up 10 years later?
     Can we somehow lead?
 
-Can we somehow lead? Why would we not lead?
+Can we somehow lead? Why would we NOT lead? ("We" being z geeks.)
 
 Containers work fine on "z" hardware.
 It's possible that containers work *better* on z.
 Someone please gather hard numbers and share them.
 (If you can't measure it ...)
 
+There is, however, a gap.
+In all the hype surrounding containers, I don't hear any mention
+of shared content, shared filesystems, shared disk space.
+
 Shared disk makes sense in any environment.
 Shared disk makes sense with containers too.
-
-The R/O root "Redpaper" is old.
-I was surprised to see my name on it. Had forgotten.
-Mike and Steve did most of the work. It was hard work and a hard recipe.
-Later, Kyle Black joined Steve and Mike on a longer piece.
 
 ## Read-only shared disks
 
@@ -51,14 +58,23 @@ have probably never heard, and when they do hear they wonder what's the
 point.
 
 CMS is the default environment on z/VM. It is a single-user system.
-Years ago, it relinquished the ability to run native (to function
-apart from the hypervisor), so it depends wholly on the z/VM host.
-With CMS, the operating system is shared by all users on any
-single z/VM instance.
+Sort of. See on z/VM a user is a virtual machine and a virtual machine
+is a user, so "users" running CMS each get their own personal computer
+which is naturally a single-user system.
+
+CMS depends wholly on the z/VM host and gets more out of that relationship
+than other guest operating systems. You gotta realize that CMS is all-in.
+Decades ago it relinquished the ability to run native (to function apart
+from the hypervisor), so it depends wholly on the z/VM host. With CMS,
+the operating system is shared by all users on any single z/VM instance.
 
 CMS shares the boot disk (190) and at least one supplemental disk (19E).
-There are others, and the norm on VM/CMS is to install products to disks
-which will be shared ... always ... and read-only.
+All CMS users get the same 190 disk, the same 19E disk, the same 19D disk
+and others. The norm on VM/CMS is to install products to disks which
+will be shared ... always ... and read-only.
+
+There's nothing magical about CMS that makes it better at the sharing
+game than other operating systems. It's just committed.
 
 ## Read-only Linux root
 
@@ -92,12 +108,20 @@ It didn't have to be the root. We just didn't know that at the time.
 
 Forcing the Linux guys to use a read-only root was a mistake.
 It's just too foreign. It bothered them. But we VMers didn't see
-the alternative soon enough: share the OS, not the root itself.
+the alternative soon enough:
+
+* share the OS, not the root itself
 
 The Linux side never fully got the value of the shared operating system.
 For example, instead of upgrading on all 500 guests, do the upgrade just
 once and eventually reboot the guests to use the new release. But that's not
 how they did it on discrete systems. That's not how they did it on VMware.
+
+Most observers thought the VMers were simply trying to save space.
+Hardly. Storage is cheap (and bandwidth is cheaper). The real savings
+was in having set-in-stone consistency, absolute defence against changes
+(e.g., by a hacker or rogue program), and guaranteed availability of
+specific software releases and bundles.
 
 ## Virtualization Beyond the Mainframe
 
@@ -122,17 +146,19 @@ The newcomers are not so new. They've grown up, gotten stable.
 But there's still a long way to go. TO THIS DAY z/VM is more efficient,
 more reliable, more scalable, and generally better than any other hypervisor.
 
+The noobs have a lot to learn.
+
 ## Containers - Old is New
 
-In the never-ending push for bigger, faster, cheaper, there's no getting
-around the overhead imposed by a hypervisor. (Barely noticable with z/VM,
-but a measurable cost with the others.) And then there's the inherent
-overhead of running multiple kernels, one per virtual machine, many
-fully-autonomous guests.
+In the never-ending push for bigger, faster, cheaper, we gotta cut
+overhead. There's no getting around the overhead imposed by a hypervisor.
+(Barely noticable with z/VM, but a measurable cost with the others.)
+Add to that the inherent overhead of running multiple kernels,
+one per virtual machine, many fully-autonomous guests.
 
 Enter containers.
 
-Wait ... let's talk about `chroot` first.
+Wait, wait ... too fast ... first let's talk about `chroot`.
 I used to say "chroot is the closest thing Unix has to a virtual macine."
 That was then.
 
@@ -156,13 +182,14 @@ Linux followed suit.
 Linux being Linux, and borrowing the best ideas from other systems,
 picked up on the jail concept. Dunno if "jail" has some negative
 connotation or if they just wanted to eschew all things BSD,
-but the capability was called "containers". Same concept.
+but the capability was called "containers" in Linux. Same concept.
 
 The advantage of containers over full virtualization is the shared kernel.
 The downside of containers versus full virtualization is the shared kernel.
 
 When you share the kernel, you get more resource savings. That's good!
-When you share the kernel, you're stuck on the same kernel (if it matters).
+When you share the kernel, you're stuck on the same kernel (if it matters,
+and sometimes it *does* matter).
 
 ## Shared Operating System
 
