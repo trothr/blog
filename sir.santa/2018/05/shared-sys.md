@@ -66,7 +66,8 @@ which is naturally a single-user system.
 CMS depends wholly on the z/VM host and gets more out of that relationship
 than other guest operating systems. You gotta realize that CMS is all-in.
 Decades ago it relinquished the ability to run native (to function apart
-from the hypervisor), so it depends wholly on the z/VM host. With CMS,
+from the hypervisor), so it just can't live apart from the z/VM host.
+With CMS,
 the operating system is shared by all users on any single z/VM instance.
 
 CMS shares the boot disk (190) and at least one supplemental disk (19E).
