@@ -7,7 +7,8 @@ we had this idea for shared operating systems among virtual machines.
 Idea nuthin! It was reality! It was beautiful. It was flawed.
 
 The basic idea was sound, remains sound, and is sound for the current
-trends in virtualization (containers versus full machines).
+trends in virtualization (containers versus full machines). The *execution*
+didn't go quite as intended.
 Here's some rambling about that.
 
 ## Remembering Read-Only Root
