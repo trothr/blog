@@ -7,7 +7,8 @@ had this idea for shared operating systems among virtual machines.
 Idea nuthin! It was reality! It was beautiful. It was flawed.
 
 The basic idea was sound, remains sound, and is sound for the current
-trends in virtualization (containers versus full machines).
+trends in virtualization (containers versus full machines). The *execution*
+didn't go quite as intended.
 Here's some rambling about that.
 
 ## Remembering Read-Only Root
@@ -20,7 +21,6 @@ Mike MacIsaac posted on the LINUX-390 list (and the IBMVM list) ...
     and tried to be respectful. Below is the chat text, which in the
     Turing Test, I would vote yes, that was a live sapien (perhaps I failed?).
 
-									<
 "The guys from Nationwide" being Steve Womer and me. But Mike co-authored.
 He's playing down his part.
 
@@ -58,15 +58,22 @@ It's a story VMers know all too well, but people from other background
 have probably never heard, and when they do hear they wonder what's the
 point.
 
+<<<<<<< HEAD
 CMS is the default environment on z/VM. CMS is a single-user system.
 Sort of. See, on z/VM a user is a virtual machine and a virtual machine
 is a user. So "users" running CMS each get their own personal computer
+=======
+CMS is the default environment on z/VM. It is a single-user system.
+Sort of. See, on z/VM a user is a virtual machine and a virtual machine
+is a user, so "users" running CMS each get their own personal computer
+>>>>>>> f40dd341f175a8c6b325aa33aa37972f1483c674
 which is naturally a single-user system.
 
 CMS depends wholly on the z/VM host and gets more out of that relationship
 than other guest operating systems. You gotta realize that CMS is all-in.
 Decades ago it relinquished the ability to run native (to function apart
-from the hypervisor), so it depends wholly on the z/VM host. With CMS,
+from the hypervisor), so it just can't live apart from the z/VM host.
+With CMS,
 the operating system is shared by all users on any single z/VM instance.
 
 CMS shares the boot disk (190) and at least one supplemental disk (19E).
