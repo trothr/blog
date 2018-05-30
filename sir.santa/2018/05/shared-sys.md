@@ -84,7 +84,6 @@ Prior to 1998, there was no other virtualization than VM/ESA
 (and preceeding flavors including VM/XA, VM/SP HPO, VM/SP, and VM/370).
 VMers understood the value of guest operating systems.
 
-									<
 Unix appealed to many. There were several Unix implementations for S/370,
 S/370 XA, and S/390 hardware over the years. Some were quite good and all
 ran well on VM. Then came Linux and it had mindshare. Linas Vepstas was
