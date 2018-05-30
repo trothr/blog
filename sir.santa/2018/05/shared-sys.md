@@ -58,15 +58,9 @@ It's a story VMers know all too well, but people from other background
 have probably never heard, and when they do hear they wonder what's the
 point.
 
-<<<<<<< HEAD
 CMS is the default environment on z/VM. CMS is a single-user system.
 Sort of. See, on z/VM a user is a virtual machine and a virtual machine
 is a user. So "users" running CMS each get their own personal computer
-=======
-CMS is the default environment on z/VM. It is a single-user system.
-Sort of. See, on z/VM a user is a virtual machine and a virtual machine
-is a user, so "users" running CMS each get their own personal computer
->>>>>>> f40dd341f175a8c6b325aa33aa37972f1483c674
 which is naturally a single-user system.
 
 CMS depends wholly on the z/VM host and gets more out of that relationship
