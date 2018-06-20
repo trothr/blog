@@ -96,8 +96,9 @@ But can't assume everyone knocking at the door is a criminal.
 Fact: the zero tolerance policy precipitated this effect
 (separating kids from parents). Some in the administration KNEW
 that it would happen and CONSCIOUSLY wanted to send a message.
-That's using separation as a deterrent. That's using
-children as pawns. THAT'S WRONG.
+That's using separation as a deterrent. That's using children as pawns.
+THAT'S WRONG. ALWAYS. That reduces us the the level of those who use
+children (and adults) as human shields.
 
 I was not opposed to the President's zero tolerance policy.
 I was wrong. I favored (still do) strong border control,
