@@ -2,7 +2,7 @@
 
 This post is about being thoughtful in policy where it affects children.
 I don't set policy, but I sometimes lend my voice to the public outcry
-of one thing or another.
+over one thing or another.
 
 This post is about being consistent.
 If we claim to espouse one position in defense of children
@@ -29,7 +29,7 @@ is that you value one life over another. If you're pro-choice
 and you accuse me of making life difficult for the woman with a problem
 pregnancy, implying that I don't care about her, then I say you're
 flat-out wrong. I DO care! But I care about her baby too!
-Why don't you care about the baby?
+Why don't YOU care about the BABY?
 
 If the life in the womb is not actually a life,
 then I'd change my position. But all evidence is that life begins
@@ -70,7 +70,7 @@ It's wrong no matter who does it.) These law breakers are hurting
 me, my family, my friends, and the other newcomers I just welcomed.
 
 Fact: children are often coached to perform.
-Is that happening here? I don't know.
+Is that happening here? I don't know. And it doesn't matter.
 
 Here's what I do know: Pulling kids away from their parents
 is tough on the kids.
@@ -86,6 +86,11 @@ We have to start from the presumption of innocence.
 That's a basic right of US citizens. It's not a right (from the US)
 of foreigners, but it's fair (and right, pun intended) to extend it
 to children.
+
+This post is my attempt at consistency.
+If I care about unborn children, I should similarly care about born
+children. And I do. Whatever the nature of splitting kids from parents,
+it's harmful. Not fatal, but still wrong.
 
 Immigration has changed. It used to be that most immigrants
 hit our shores for economic incentive. Lately it's refugees,
@@ -110,8 +115,9 @@ You can make the separation stop.
 Please do!
 
 Final note:
-If you're upset about children separated from their parents at the border
-consider being consistent. Start getting upset about children separated
-from their parents, and from life itself, before their first breath.
+If you're upset about children separated from their parents at the border,
+but AREN'T upset about abortion, consider getting consistent. Start getting
+upset about children separated from their parents, and from life itself,
+before their first breath.
 
 
