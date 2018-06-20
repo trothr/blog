@@ -20,7 +20,7 @@ If the baby isn't really a baby, then sure:
 abortion is just a medical procedure and the fetus is just
 a bunch of tissue.
 
-But it's not a problem, it's a child.
+But it's not a "problem", it's a child.
 I don't oppose abortion on grounds of birth control.
 I oppose abortion because it kills an innocent human being.
 
@@ -28,7 +28,7 @@ If you're "pro-choice", my argument with you
 is that you value one life over another. If you're pro-choice
 and you accuse me of making life difficult for the woman with a problem
 pregnancy, implying that I don't care about her, then I say you're
-flat-out wrong. I DI care! But I care about her baby too!
+flat-out wrong. I DO care! But I care about her baby too!
 Why don't you care about the baby?
 
 If the life in the womb is not actually a life,
@@ -54,17 +54,16 @@ yet they'd accuse *me* of hate. It's ironic.)
 
 Fact: children are being separated from their parents
 at the border. Are the kids being mistreated? I don't know.
-But it doesn't matter.
 
 I saw an article which suggested that the border story
 is not as bad as the outcry suggests. That encouraged me.
 "Phew! We're not actually Nazis.". But it was published in a
 journal with a reputation, and there's no ignoring the source:
 was it fact or just wishful thinking by the author? Worse,
-I hadn't read it well enough: it conflated legal with moral.
+I hadn't read it well enough: the piece conflated legal with moral.
 
-We are a nation of immigrants. I spent most of my life
-in a border state. I *consciously* welcomed newcomers.
+We are a nation of immigrants. I spent most of my life in a border state.
+I *consciously* welcomed newcomers, even made some good friends.
 Never the less, I'M OFFENDED by incoming who want to game the system.
 (And don't cite people I might support who also gamed the system.
 It's wrong no matter who does it.) These law breakers are hurting
@@ -101,7 +100,7 @@ That's using separation as a deterrent. That's using
 children as pawns. THAT'S WRONG.
 
 I was not opposed to the President's zero tolerance policy.
-I was wrong. I favored (still do) viable border control,
+I was wrong. I favored (still do) strong border control,
 but I did not know the whole story. I've changed my position.
 
 Mr. President,
