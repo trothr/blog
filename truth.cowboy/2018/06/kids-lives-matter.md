@@ -73,7 +73,8 @@ Fact: children are often coached to perform.
 Is that happening here? I don't know. And it doesn't matter.
 
 Here's what I do know: Pulling kids away from their parents
-is tough on the kids.
+is tough on the kids. If I'm going to call myself pro-family
+then I need to stand for things which are ... well ... PRO-family.
 
 ## It's Not Easy
 
