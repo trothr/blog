@@ -1,4 +1,4 @@
-# Kids Lives Matter
+# Kids' Lives Matter
 
 This post is about being thoughtful in policy where it affects children.
 I don't set policy, but I sometimes lend my voice to the public outcry
