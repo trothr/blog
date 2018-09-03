@@ -12,7 +12,7 @@ Excellent gear is often available as surplus,
 having served a particular lifecycle role and now replaced with better,
 or at least newer, other hardware. The old stuff probably works fine and
 usually goes for cheap, even free. Surplus is also typically free from
-intrusions like AMT*.
+intrusions like AMT (see Links section).
 
 With computing hardware, the demands of ever faster processing and
 graphics overshadow the simpler requirements of point-of-presence
@@ -96,5 +96,13 @@ Wired ethernet would be preferred, but it's hard to fight the convenience
 of wireless. Given the intended use of this thing as a backup storage server,
 vulnerabilities related to radio are acceptably small, making placement
 or relocation of the unit easier for offsite family is a win.
+
+## Links
+
+One reason for using surplus, no AMT.
+
+https://en.wikipedia.org/wiki/Intel_Active_Management_Technology
+
+I mention AMT knowing that the RaspberryPi is based on a Broadcom.
 
 
