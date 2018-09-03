@@ -97,6 +97,9 @@ of wireless. Given the intended use of this thing as a backup storage server,
 vulnerabilities related to radio are acceptably small, making placement
 or relocation of the unit easier for offsite family is a win.
 
+Now it's a matter of reviewing `cron` jobs to be sure we push
+content to the remote server regularly. That's what backup is all about.
+
 ## Links
 
 One reason for using surplus, no AMT.
