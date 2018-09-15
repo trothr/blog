@@ -18,6 +18,9 @@ so it's important to at least hear how things happened.
 (If one is then truly compelled to change a name then at least
 sym-link old to new, or new to old.)
 
+It's both humorous and sad, <br/>
+"This is Unix. You just gotta know!"
+
 Note: Linux got where it is by leveraging Unix history, Unix lessons,
 and Unix people. It's no slam against Linux to describe it as a
 variant of Unix. True, Linux has gone in its own direction ... a lot.
@@ -34,6 +37,10 @@ kinds of data and where they reside. There are at least these:
 * per-user configuration
 * system data (e.g., logs, databases, varying content)
 * user data, where distinct from system data
+
+Throughout the industry are examples of packages,
+even whole systems, which fail to distinguish these classes.
+Eventualy someone gets bitten.
 
 ## Why /bin?
 
