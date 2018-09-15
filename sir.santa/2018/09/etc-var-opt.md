@@ -55,7 +55,7 @@ Let's move on.
 
 ## /usr
 
-As Unix was being developed, /usr was first used to hold
+As Unix was being developed, `/usr` was first used to hold
 user home directories. It was a separate disk from the root filesystem.
 But in the early days disk space was expensive. As the system grew,
 some things got moved from the root over to `/usr`. Eventually, since
@@ -72,7 +72,7 @@ At first it held files that seemed to have no other place to go.
 Now it holds the majority of system configuration files.
 `/etc` defines the personaly of the system.
 
-As of this writing, /etc also holds non-system configuration too.
+As of this writing, `/etc also holds non-system configuration too.
 
 ## /var
 
@@ -102,7 +102,7 @@ The recommended naming for third party packages is:
 
 As an example, the Chrome web broswer from Google would to in:
 
-        /opt/google//chrome
+        /opt/google/chrome
 
 ## Putting it all Together
 
