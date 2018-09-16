@@ -131,6 +131,28 @@ with OS files. Leave the operating system pristine.
 If the package is to have per-user configuration or per-user content
 those files should go under the individual user's home directory.
 
+## Family Argument
+
+The above file paths are not universally agreed upon.
+In particular, in many parts of the industry, people prefer to have
+configuration varying files *after* the package prefix instead of
+before it. It sounds convenient, and it simplifies initial deployment.
+But it grossly complicates package management and future updates.
+
+## Harmony
+
+Sym-linkery might help.
+
+        /opt/vendor/package/etc -> /etc/opt/vendor/package
+        /opt/vendor/package/var -> /var/opt/vendor/package
+
+It's just a suggestion. I don't recommend it. Maybe do it at first
+like training wheels, but in the end too many sym-links are just clutter.
+Also, the simplification does nothing for user-owned files.
+
+Harmony can be achieved. We need to consider content classification
+and dig deep enough to cope with real-world requirements.
+
 ## References
 
 https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/usr.html
