@@ -25,7 +25,7 @@ Specifically for winter:
 
 * hand warmers
 * blanket
-* cat litter
+* cat litter (for traction)
 * windshield de-icer (above)
 * camping shovel (above)
 
