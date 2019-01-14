@@ -21,6 +21,10 @@ Missing, but recommended:
 * safety flares and/or reflectors
 * flashlight
 
+* chocks to stabilize the vehicle when changing a tire
+* car tools
+* first aid kit
+
 Specifically for winter:
 
 * hand warmers
