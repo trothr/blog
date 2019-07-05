@@ -78,6 +78,9 @@ When the trumpet sounds, he'll rise ahead of us. It's an honor.
 
 I hope tomorrow's services will be a real celebration of a life well spent.
 
+Every time Gene prayed, it was with thankfulness
+of what God had done and would do.
+
 He was a veteran. I'm thankful for the honor he'll get. (21 gun salute!)
 
 Oddly, Petra's "Godpleaser" has been playing in my head.
