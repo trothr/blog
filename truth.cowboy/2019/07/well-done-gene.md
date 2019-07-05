@@ -60,7 +60,7 @@ I repeated, "We do not have to buy this car today." Calm flowed over me.
 Eventually we gathered in the office of the finance lady,
 who was still waiting on some mysterious call-back from corporate.
 Approval? Nothing yet. Enough! We got up to leave. (Gene first,
-then Marilyn and I followed.) "Wait! wait! He's answering now."
+then Marilyn and me.) "Wait! wait! He's answering now."
 
 ## He'll Rise First
 
