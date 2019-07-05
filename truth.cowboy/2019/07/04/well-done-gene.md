@@ -9,7 +9,7 @@ Five days ago, we stood around as he left us.
 And now family have gathered from several states,
 some quite far away. He was very much loved.
 
-## Corono Discharge and Aircraft Markers
+## Corona Discharge and Aircraft Markers
 
 Gene let me talk even when I was wrong.
 
@@ -89,7 +89,6 @@ too choked up to see the laptop screen.
 Our loss is his gain.
 
 I look forward to when we see you again, Gene Harvey Nerren.
-
 
 2019-07-04
 
