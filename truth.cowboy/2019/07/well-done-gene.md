@@ -16,7 +16,7 @@ Gene let me talk even when I was wrong.
 I remember a trip he and I took. Along the way, we noticed the
 red balls on the power lines. He said they're for warning aircraft
 of the presence of hard-to-see hazards (wires). I said, "No no,
-they're for corona discharge when there's lightning.". There *is*
+they're for corona discharge when there's lightning." There *is*
 similar gear for corona discharge, but lightning defense uses the
 *opposite* geometry. I KNEW that but failed to put it together.
 Gene patiently let me babble on.
@@ -34,7 +34,7 @@ Gene accepted me even when I was unacceptable.
 When I think about the kind of man I'd want for my daughter to marry,
 I surely want him to have gainful employment. But when I married Marilyn,
 I was still in school. Some time long after our wedding, he shared with us:
-someone asked him at the time (about the groom, me), "Does he have a job?".
+someone asked him at the time (about the groom, me), "Does he have a job?"
 
 One time I thanked Gene for letting me marry his daughter.
 "It's been a wild ride.", he said.
@@ -70,7 +70,7 @@ My mom's funeral several years ago was a celebration.
 Her faith was amazing and her life was an inspiration.
 I remember speaking at the service. I Thes 4:16 came to mind.
 Paul comforted the Thessalonians about those who had passed on.
-"The dead in Christ shall rise first.". I said (to Dad directly),
+"The dead in Christ shall rise first." I said (to Dad directly),
 "She's gonna go first" (in the resurrection).
 
 It's true of Gene too:
