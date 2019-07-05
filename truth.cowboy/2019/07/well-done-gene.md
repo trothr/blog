@@ -1,10 +1,13 @@
 # Well Done, Gene
 
-Tomorrow we're burying my father-in-law.
+Tomorrow we're burying my father-in-law. His name is Gene.
 
 Just after his 87th birthday he started to have heart trouble.
 Got a new valve. That went great! But then a stroke hit him.
 Five days ago, we stood around as he left us.
+
+And now family have gathered from several states,
+some quite far away. He was very much loved.
 
 ## Corono Discharge and Aircraft Markers
 
@@ -30,9 +33,8 @@ Gene accepted me even when I was unacceptable.
 
 When I think about the kind of man I'd want for my daughter to marry,
 I surely want him to have gainful employment. But when I married Marilyn,
-I did not have gainful employment. Some time long after our wedding,
-he shared with us: someone asked him at the time (about me, the groom),
-"Does he have a job?".
+I was still in school. Some time long after our wedding, he shared with us:
+someone asked him at the time (about me, the groom), "Does he have a job?".
 
 One time I thanked Gene for letting me marry his daughter.
 "It's been a wild ride.", he said.
@@ -53,12 +55,12 @@ I got stressed out. "I've got to buy this car today!"
 
 Gene was calm and cool. "You do *not* have to buy this car today."
 
-I repeated, "I do not have to buy this car today."
+I repeated, "I do not have to buy this car today." Calm flowed over me.
 
 Eventually we gathered in the office of the finance lady,
 who was still waiting on some mysterious call-back from corporate.
-Approval? Nothing yet. We got up to leave. (Gene first, then Marilyn
-and I followed.) "Wait! wait! He's answering now."
+Approval? Nothing yet. Enough! We got up to leave. (Gene first,
+then Marilyn and I followed.) "Wait! wait! He's answering now."
 
 ## He'll Rise First
 
@@ -81,5 +83,7 @@ Gene is hearing that now. And suddenly it's hard for me to write,
 too choked up to see the laptop screen.
 
 Our loss is his gain.
+
+I look forward to when we see you again, Gene Harvey Nerren.
 
 
