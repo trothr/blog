@@ -51,11 +51,11 @@ Finally found a vehicle that was a good fit and at a good price.
 But the finance people were dragging their feet. We waited
 at the dealership for HOURS.
 
-I got stressed out. "I've got to buy this car today!"
+I got stressed out. "We've got to buy this car today!"
 
 Gene was calm and cool. "You do *not* have to buy this car today."
 
-I repeated, "I do not have to buy this car today." Calm flowed over me.
+I repeated, "We do not have to buy this car today." Calm flowed over me.
 
 Eventually we gathered in the office of the finance lady,
 who was still waiting on some mysterious call-back from corporate.
