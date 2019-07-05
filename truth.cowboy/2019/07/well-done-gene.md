@@ -21,7 +21,7 @@ similar gear for corona discharge, but lightning defense uses the
 *opposite* geometry. I KNEW that but failed to put it together.
 Gene patiently let me babble on.
 
-Later I realized my mistake. I was so embarrassed. 
+Later I realized my mistake. I was so embarrassed.
 There were many other times I saw him tolerate someone else's
 foolishness with complete grace and graciousness.
 
@@ -62,22 +62,26 @@ who was still waiting on some mysterious call-back from corporate.
 Approval? Nothing yet. Enough! We got up to leave. (Gene first,
 then Marilyn and me.) "Wait! wait! He's answering now."
 
+We got the car ... on our terms.
+
 ## He'll Rise First
 
-My mom's funeral several years ago was a celebration. 
-Her faith was amazing and her life was an inspiration. 
-I remember speaking at the service. I Thes 4:16 came to mind. 
-I said (to Dad directly), "She's gonna go first" (in the resurrection).
+My mom's funeral several years ago was a celebration.
+Her faith was amazing and her life was an inspiration.
+I remember speaking at the service. I Thes 4:16 came to mind.
+Paul comforted the Thessalonians about those who had passed on.
+"The dead in Christ shall rise first.". I said (to Dad directly),
+"She's gonna go first" (in the resurrection).
 
-It's true of Gene too: 
-When the trumpet sounds, he'll rise ahead of us. 
+It's true of Gene too:
+When the trumpet sounds, he'll rise ahead of us. It's an honor.
 
 I hope tomorrow's services will be a real celebration of a life well spent.
 
-He was a veteran. I'm thankful for the honor he'll get. (21 gun salute!) 
+He was a veteran. I'm thankful for the honor he'll get. (21 gun salute!)
 
-Oddly, Petra's "Godpleaser" has been playing in my head. 
-NOT a band Gene would EVER have listened to. But the line, 
+Oddly, Petra's "Godpleaser" has been playing in my head.
+NOT a band Gene would EVER have listened to. But the line,
 "I just wanna hear my Father say 'well  done'", really rings in my ears.
 Gene is hearing that now. And suddenly it's hard for me to write,
 too choked up to see the laptop screen.
