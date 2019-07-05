@@ -22,7 +22,7 @@ similar gear for corona discharge, but lightning defense uses the
 Gene patiently let me babble on.
 
 Later I realized my mistake. I was so embarrassed. 
-There were many times I saw him tolerate someone else's
+There were many other times I saw him tolerate someone else's
 foolishness with complete grace and graciousness.
 
 Probably the most patient man I've ever known.
@@ -34,7 +34,7 @@ Gene accepted me even when I was unacceptable.
 When I think about the kind of man I'd want for my daughter to marry,
 I surely want him to have gainful employment. But when I married Marilyn,
 I was still in school. Some time long after our wedding, he shared with us:
-someone asked him at the time (about me, the groom), "Does he have a job?".
+someone asked him at the time (about the groom, me), "Does he have a job?".
 
 One time I thanked Gene for letting me marry his daughter.
 "It's been a wild ride.", he said.
