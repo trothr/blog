@@ -1,6 +1,6 @@
 # Well Done, Gene
 
-Tomorrow we're burying my father-in-law. His name is Gene.
+Tomorrow we're burying my father-in-law. His name is Gene Harvey Nerren.
 
 Just after his 87th birthday he started to have heart trouble.
 Got a new valve. That went great! But then a stroke hit him.
