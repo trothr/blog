@@ -6,7 +6,7 @@ Did not attend church today. (Probably no surprise to anyone.)
 Said goodbye to Donnette around 11 and said goodbye to
 Stephanie, Phyllis, and Kenneth around noon.
 
-Mike and Barbara still here.
+Mike and Barbara still here. Jo Ann too, of course.
 
 Matt and Toni and Nia and Nyla still here.
 
@@ -29,6 +29,10 @@ In the photo, you can just barely make out Marilyn's face on the little
 temporary marker that the funeral home placed there. In the photo, I tried
 to get the beautiful oak tree in the background. You can see Chelle's arm
 on the left and Martin's arm on the right.
+
+
+![20191222_140419.jpg](https://github.com/trothr/blog/blob/master/images/2019/20191222_140419.jpg)
+
 
 ## Around Town
 
@@ -56,6 +60,9 @@ by well wooded green space. Chelle said that Marilyn used to take the kids
 and walk Brewster (corgi mix, family pet, circa 2000) in that area.
 Someone has kept the baseball field well groomed.
 
+Kids and I went to Jack-in-the-Box. They don't have those in Ohio or
+Virginia. We find ourselves empty, poured out.
+
 Jo Ann got to visit with her friend Dot Brookshire at length.
 Mike and Barbara took her there, then caught up with us at Casa Ole
 where we had found Matt and Toni.
@@ -66,19 +73,18 @@ In recent days, I've told several people about when Marilyn and I saw
 Back to the Future at the Angelina Twin theatre. After the movie,
 we drove back to her parents' house and sat in the driveway for a bit.
 
-"Will you marry me?"
+Rick: "Will you marry me?"
 
-"That's a pretty big step"
+Marilyn: "That's a pretty big step"
 
 She thought for several minutes.
 
-"Yes, I'll marry you."
+Marilyn: "Yes, I'll marry you."
 
-Matt seemed to remember this, mentioned that I had not gotten a ring.
-I wonder now what the Nerrens must have thought of this guy who
-didn't even have a ring. In those days, Jo Ann was going annually to the
-Dallas market and knew where quality jewelry could be acquired. So we
-got rings.
+Matt seemed to remember this, recalled that I had not gotten a ring.
+I wonder now what the Nerrens must have thought of this guy who didn't
+even have a ring. In those days, Jo Ann was going annually to the Dallas
+market and knew where quality jewelry could be acquired. So we got rings.
 
 While at the Reen Street house, I pointed out, "this is where it happened",
 that same driveway.
@@ -92,6 +98,8 @@ but it really amplifies the loss.
 GOD, WHY did you take her?
 
 The three of us are so tired from trying to comfort each other.
+
+We prayed, "Lord, please guide us in our new life.".
 
 Tomorrow we fly back to Ohio.
 
