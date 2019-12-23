@@ -34,7 +34,7 @@ on the left and Martin's arm on the right.
 
 ## Around Town
 
-We headed to Reen Street, where Gene and Jo Ann lived for more than 50 years.
+We headed to Reen Drive, where Gene and Jo Ann lived for more than 50 years.
 
 Before getting there, we stopped on Linkwood Drive, where Bill and Helene
 lived when they were in Lufkin.
@@ -79,6 +79,9 @@ She thought for several minutes.
 
 Marilyn: "Yes, I'll marry you."
 
+While at the Reen Drive house, I pointed out,
+"this is where it happened", that very same driveway.
+
 Matt seemed to remember this, recalled that I had not gotten a ring.
 I wonder now what the Nerrens must have thought of this guy who didn't
 even have a ring. In those days, Jo Ann was going annually to the Dallas
@@ -87,9 +90,7 @@ market and knew where quality jewelry could be acquired. So we got rings.
 ![20191222-215710.jpg](https://github.com/trothr/blog/blob/master/images/2019/20191222-215710.jpg)
 
 Not sure why my pinky looks so pink in the picture.
-
-While at the Reen Street house, I pointed out,
-"this is where it happened", that very same driveway.
+I retrieved Marilyn's ring. It will go to Chelle someday.
 
 ## Remorse of Remeniscing
 
