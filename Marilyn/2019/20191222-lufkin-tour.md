@@ -86,8 +86,10 @@ market and knew where quality jewelry could be acquired. So we got rings.
 
 ![20191222-215710.jpg](https://github.com/trothr/blog/blob/master/images/2019/20191222-215710.jpg)
 
-While at the Reen Street house, I pointed out, "this is where it happened",
-that same driveway.
+Not sure why my pinky looks so pink in the picture.
+
+While at the Reen Street house, I pointed out,
+"this is where it happened", that very same driveway.
 
 ## Remorse of Remeniscing
 
