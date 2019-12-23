@@ -30,9 +30,7 @@ temporary marker that the funeral home placed there. In the photo, I tried
 to get the beautiful oak tree in the background. You can see Chelle's arm
 on the left and Martin's arm on the right.
 
-
-![20191222_140419.jpg](https://github.com/trothr/blog/blob/master/images/2019/20191222_140419.jpg)
-
+![20191222_140419r.jpg](https://github.com/trothr/blog/blob/master/images/2019/20191222_140419r.jpg)
 
 ## Around Town
 
@@ -85,6 +83,8 @@ Matt seemed to remember this, recalled that I had not gotten a ring.
 I wonder now what the Nerrens must have thought of this guy who didn't
 even have a ring. In those days, Jo Ann was going annually to the Dallas
 market and knew where quality jewelry could be acquired. So we got rings.
+
+![20191222-215710.jpg](https://github.com/trothr/blog/blob/master/images/2019/20191222-215710.jpg)
 
 While at the Reen Street house, I pointed out, "this is where it happened",
 that same driveway.
