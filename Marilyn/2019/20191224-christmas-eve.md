@@ -1,6 +1,6 @@
 # Christmas Eve
 
-Need a verse for today.
+The verse for today is Psalm 34:4,5.
 
 Kids and I arrived in Columbus last night around 6:15.
 Martin went to meet a friend for dinner.
@@ -53,6 +53,10 @@ Fast. None of us wanted to "just mosey" today.
 
 Scott got tickets for all of us to the Christmas Eve service.
 (The service is free of charge, but space is limited.)
+
+It was a mixture of music and speaking parts.
+One of the pastors described the situation Mary and Joseph were in,
+and unexpected journey.
 
 Marilyn would have LOVED it.
 We all liked Granger Community when we visited, Marilyn especially did
