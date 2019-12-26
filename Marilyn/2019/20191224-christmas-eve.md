@@ -33,6 +33,12 @@ Kids slept until about 8:40.
 We're trying to get moving early enough to catch that
 Christmas Eve service.
 
+As we were packing, Chelle brought me Tozer's "The Pursuit of God",
+which I remembered seeing. Where? At her place. Chell in turn had
+gotten it from Marilyn. The book is marked with Marilyn's notes.
+Oddly, I don't remember her going over this book. Might have been
+when she was in a study with Amy Tipton.
+
 ## Driving
 
 Grove City had freezing fog this morning.
