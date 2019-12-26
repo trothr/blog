@@ -62,9 +62,9 @@ Scott got tickets for all of us to the Christmas Eve service.
 
 It was a mixture of music and speaking parts.
 One of the pastors described the situation Mary and Joseph were in,
-and unexpected journey.
+an unexpected journey. The kids and I are in our own unexpected journey.
 
-Marilyn would have LOVED it.
+Marilyn would have LOVED the service.
 We all liked Granger Community when we visited, Marilyn especially did
 and wished it was closer to us.
 
