@@ -6,19 +6,20 @@ but I like the perspective of Galatians 4:4-6.
 ## Gifts
 
 All I had to give this year was some King Bee honey. (Thanks Chris
-and Laura!) Good stuff and I think it was a hit! Praise God.
+and Laura!) Good stuff and I think it was a hit! Praise God!
 
 Gifts not exchanged were what Chelle and Martin and I got from Marilyn.
 She ordered three BlanQuil brand weighted blankets. They arrived
 not too long before she went into the hospital.
-We've each already used them.
+We've each already used them. Early Christmas gift ... and from Mom.
 
-Thoughtful gifts were shared.
+At the Bennetts', thoughtful gifts were shared.
 It was nice just to be with Diane and Scott and Billie.
 
 ## the Tozer book
 
-Back in my room, I picked up the Tozer book.
+Back in my room, I picked up the Tozer book that I got from Chelle
+yesterday. (Haven't personally read much Tozer, but am generally a fan.)
 At the end of chapter 9, on page 110 I saw this ... 
 
 *Lord, make me childlike.
@@ -55,6 +56,8 @@ God has sent forth the Spirit of His Son into your hearts,
 crying out, 'Abba, Father!'."
 
 Abba, help us.
+
+This is not the Christmas we planned, but it is the Christmas we have.
 
 2019-12-25
 
