@@ -10,6 +10,8 @@ Her help really softened that load for Marilyn at the time.)
 
 They drove up from Houston for the Saturday service in Lufkin.
 
+What follows (other than the section headings) is what Danny said.
+
 ## About the Service
 
  Spent yesterday celebrating the life of our friend Marilyn Troth with 
