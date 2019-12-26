@@ -1,6 +1,14 @@
 # What Danny Said
 
-Danny and Lorrie Davids
+Danny and Lorrie Davids are some of our dearest friends from Houston.
+We met them when we joined Houston Northwest church. We later participated
+in small group Bible study in their home.
+
+When we moved, Lorrie helped Marilyn with some of the preparation,
+specifically the yard work. (Yard work is Lorrie's thing.
+Her help really softened that load for Marilyn at the time.)
+
+They drove up from Houston for the Saturday service in Lufkin.
 
 ## About the Service
 
