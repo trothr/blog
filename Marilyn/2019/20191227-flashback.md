@@ -8,25 +8,24 @@ Yesterday was a melancholy Day-after-Christmas.
 Chelle left yesterday.
 A long drive for her, but she made it without difficulty.
 
-I had already decided to post what Danny said,
-so did not add to that.
+I had already decided to post yesterday what Danny said
+on Facebook, so did not add to that.
 
 ## Golfing and Memories
 
 Martin and I went with Scott while he golfed with friends.
 Initially we were going to just ride along for fun and to visit,
-but later Scott convinced us to try a few holes.
+but later Scott convinced us to try a few holes. It was good.
 
 Returning to the neighborhood,
 we drove on a road called "Old Farm".
-
 Christmas 1998, we were here, got snowed in.
 I drove the Windstar on the same street, then covered in snow,
 just for fun.
 
 ## Flashback, October 1st
 
-The 1st was a Tuesday.
+October 1st was a Tuesday.
 Marilyn and I had just returned from Virginia
 where we had visited Chelle and Martin for Marilyn's birthday.
 
@@ -40,7 +39,7 @@ nothing serious.
 Marilyn was in the Ohio State University medical system
 for primary care. Her doctor was out, but the doctor filling-in
 determined, "yep, gallbladder", and referred her to a GI surgeon,
-Dr. Narula. He and the team were proceeding through the preliminary
+Dr. Narula. That man and his team were proceeding through the preliminary
 scans and tests, thinking they'd need to remove the gallbladder,
 but of course treading carefully in case some less intrusive treatment
 would make more sense.
