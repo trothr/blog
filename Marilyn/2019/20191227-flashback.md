@@ -46,7 +46,7 @@ would make more sense.
 
 We met with Dr. Narula several times. The last pre-op meeting was on
 Wednesday, November 6th. As we left the clinic, they drew blood.
-Next day, Thursday the 7yh, Dr. Narula received the results of the
+Next day, Thursday the 7th, Dr. Narula received the results of the
 blood tests and called us. "Your white blood cell count is very high.
 Go to the ER and have them call me.". So we did.
 
