@@ -17,10 +17,10 @@ Martin and I went with Scott while he golfed with friends.
 Initially we were going to just ride along for fun and to visit,
 but later Scott convinced us to try a few holes. It was good.
 
-Returning to the neighborhood,
+Returning to the Saddle Brook neighborhood,
 we drove on a road called "Old Farm".
-Christmas 1998, we were here, got snowed in.
-I drove the Windstar on the same street, then covered in snow,
+Christmas 1998, the four of us were here, got snowed in.
+I drove the Windstar on the same street, then thickly covered in snow,
 just for fun.
 
 ## Flashback, October 1st
