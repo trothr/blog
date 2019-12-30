@@ -42,6 +42,9 @@ Ezekiel Elliott plays running back for the Cowboys.
 Zeke's a Buckeye! We watched him help Ohio State defeat Alabama
 in the 2015 Sugar Bowl, as well as many other OSU games.
 
+Earlier in the day, Martin came with me on a walk.
+It was good to get out of the house, good to talk, tech, Mom, life.
+
 Later in the evening, Martin and I watched the parts of several movies.
 There's a line in "Trading Places" where Dan Aykroyd's character says ...
 
