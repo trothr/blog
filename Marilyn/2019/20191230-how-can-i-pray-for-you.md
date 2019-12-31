@@ -10,6 +10,10 @@ I like how he put it: we're here for some downtime, here to heal,
 nothing scheduled for today, so sleeping late is okay. So he slept.
 Got up around noon, well rested. Good.
 
+I've continued to read the Tozer book. Not easy, but I recommend it.
+Ron Tipton tells me that he and Amy have never used it, so now I'm
+that much more confused: where the heck did Marilyn get it?
+
 ## A Drive
 
 It snowed today. Got windy. Got too cold for a walk.
