@@ -73,7 +73,8 @@ Unity!
 We were as one.
 
 Looking back, every step we took was the right step at that moment.
-It was right to pray for healing, even to pray for a miracle.
+It was right to pray for healing, even to pray for a miracle,
+and to pursue "full court press" with the critical care team.
 
 So began prayer in earnest.
 
