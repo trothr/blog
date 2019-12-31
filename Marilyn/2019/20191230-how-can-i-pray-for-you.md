@@ -38,18 +38,19 @@ like maybe 7AM. I realized she was loading up her car to go somewhere.
 She was coming to Columbus, and WITH Granddaddy. Their intention was
 to come lay hands on Marilyn. Their inspiration was James 5:14.
 
-
 ## How can I pray for you?
+
+Chelle took the lead in spreading the word to pray for her mom.
+She used all channels available to her. (voice, text, email, social media)
 
 On Wednesday before the ICU, I had gone to the mens group at church.
 The short story is that the guys laid hands on me and prayed for Marilyn.
 Praise God!
 
-I asked several friends and family to pray for Marilyn.
-Paul Geisler responded, "Yes will pray" and "have been studying
-healing lately". Paul had written some thoughts which raised eyebrows,
-but all I saw was the Scripture he included. That's what we pursued,
-God's Word.
+I asked a growing number of friends and family to pray for Marilyn.
+Paul Geisler responded, "Yes will pray" and "have been studying healing
+lately". Paul wrote some thoughts which raised eyebrows, but all I saw
+was the Scripture he included. That's what we pursued, God's Word.
 
 James 5:14, "Is anyone among you sick? Let him call for the elders
 of the church, and let them pray over him, anointing him with oil
@@ -73,6 +74,10 @@ We were as one.
 
 Looking back, every step we took was the right step at that moment.
 It was right to pray for healing, even to pray for a miracle.
+
+So began prayer in earnest.
+
+I do miss her so much.
 
 2019-12-30 Monday
 
