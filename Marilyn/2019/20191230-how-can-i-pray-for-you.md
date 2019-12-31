@@ -79,6 +79,7 @@ We were as one.
 Looking back, every step we took was the right step at that moment.
 It was right to pray for healing, even to pray for a miracle,
 and to pursue "full court press" with the critical care team.
+It was right to take her home when we did, and was what she asked for.
 
 So began prayer in earnest.
 
