@@ -42,6 +42,6 @@ I don't want to be like those disheveled guys at the restaurant.
 Having to do my own double-check now. I'm relying on memory of Marilyn
 for the reference, what to check, what to look for, everything in place.
 
-2020-01-02
+2020-01-02 Thursday
 
 
