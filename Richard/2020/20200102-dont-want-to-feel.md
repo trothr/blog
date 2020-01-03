@@ -14,12 +14,14 @@ does not let us off the hook, and it somehow does not counter our
 "free will". But that's getting too deep for me, and certainly
 too deep for this blog.)
 
+God is always in control. That's just part of Him being God.
+
 ## Arguing and Asking Why
 
 I went for a walk, just around the neighborhood.
 I try to walk a mile or more each day. I talked to God ... out loud.
 Kinda hoping that the neighbors don't think I'm crazy and kinda just
-don't care.
+don't care if they do.
 
 "Why'd You take her?"
 
@@ -52,7 +54,7 @@ But it's killing you.
 
 "Then leave it and let me die!", because it hurts so bad to remove it.
 
-stop
+wait ... stop
 
 What have I said?!?!? Oh, God, no.
 
@@ -91,6 +93,14 @@ I don't know why. I sometimes WONDER why. I love my dad, but I don't
 thought comes to mind, "This is how HE felt, you miserable prick!".
 
 And I know that thought is not from the Lord.
+
+My friend seemed to imply that I should simply accept the idea that,
+in this life, sometimes things HURT so buck-up camper and get used to it.
+
+There's Ted Stryker and the hanging woman (from a movie, some will
+know the reference), "I hope this hasn't been boring for you.".
+There's Job. Now he had REAL pain. In my own mind, I'm the latter.
+I honestly worry that, in reality, I'm the former.
 
 2020-01-02 Thursday
 
