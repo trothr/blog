@@ -81,9 +81,9 @@ This is not a joke. I am at the point where I'll medicate to get through this.
 ## Angry at God
 
 If I didn't KNOW that God loves us, I'd think he was laughing at me.
-Right now, it's hard to remember some of these things. Right now,
-I'll hear that supernatural laughter and forget it's the Tormentor,
-not the Lord.
+Right now, it's hard to remember some of these things, when it's from God
+and when it's not. Right now, I'll hear that ethereal laughter and forget
+it's some tormentor, not the Lord.
 
 "Hah! This is how your DAD felt!"
 
