@@ -32,7 +32,7 @@ from church, the pastor's daughter and her husband) had several huskies.
 Marilyn heard about a husky needing adoption. She and the kids drove down
 to Cincinnati. I named her Tasha.
 
-The idea was that Tasha was short for Natasha, which is a find name
+The idea was that Tasha was short for Natasha, which is a fine name
 for a Russian girl. And it starts with "T". But I didn't verbalize
 all of this until years later. (Ideas sometimes come in a flash.)
 
