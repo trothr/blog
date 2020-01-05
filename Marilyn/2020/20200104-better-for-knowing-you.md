@@ -3,6 +3,8 @@
 For the past several days,
 I've had it out with God, yelling at Him, asking "why?".
 
+It's difficult to even pray right now.
+
 Scott is producing the services at Granger Community Church this weekend,
 two on Sunday and one tonight (Saturday). Diane asked if I wanted to go
 and suggested dinner afterward. I went.
@@ -29,6 +31,9 @@ a man with better groomed hair than mine.
 I already mentioned how Marilyn changed me for the better
 even in little grooming habits. (And here's hoping that's not TMI.)
 
+We were better together.
+The pain of not having her is deep. But I also just can't THINK at times.
+
 ## Never the Same
 
 I've said that my own life is reset, like a reboot.
@@ -42,14 +47,15 @@ the One who lifts up my head.".
 And then verse 4, "I cried to the Lord with my voice,
 and He heard me from His holy hill.".
 
-Diane encouraged me to read Psalms, and I was doing that.
+Diane encouraged me to read Psalms, and I have been doing that.
 Got to chapter 3 and got stuck on verses 3 and 4.
 These were tough because they (or something similar) had been
 verse-of-the-day at one point during Marilyn's hospitalization.
+Stuff I know to be true, but leaving me with that "why?" again.
 
 Marilyn was better for me than I was for her.
-I wanted to do better, to do more. I should recognize that her lie now
-is perfect, no improvement needed. Maybe someday I will.
+I wanted to do better, to do more. I should recognize that her life now
+is perfect, no improvement needed. Maybe someday I can embrace that.
 
 2020-01-04 Saturday
 
