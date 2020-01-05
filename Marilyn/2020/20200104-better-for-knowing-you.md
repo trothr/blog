@@ -26,7 +26,7 @@ having her by my side, those insecurities faded away.
 During the memorial services, and in countless tributes,
 people were better for having known Marilyn. More so for me.
 
-Across the table sat Scott Bennett,
+Across the table at dinner sat Scott Bennett,
 a man with better groomed hair than mine.
 I already mentioned how Marilyn changed me for the better
 even in little grooming habits. (And here's hoping that's not TMI.)
@@ -39,7 +39,7 @@ The pain of not having her is deep. But I also just can't THINK at times.
 I've said that my own life is reset, like a reboot.
 But I'm not the same. I will never be the same guy that I was
 before being married to Marilyn. She changed me for the better,
-like a wonderful tool in God's hand, permanently.
+like a wonderful tool in God's hand, permanently improved, sharpened.
 
 The verse of the day is Psalm 3:1-4.
 Verse 3 reads, "But You, O Lord, are a shield for me, my glory and
