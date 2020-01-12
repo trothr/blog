@@ -47,7 +47,7 @@ Saturday ... I should get out and do something.
 
 A new gun range opened and it's in Grove City.
 They're offering discounts for the opening, so I got a membership
-and a free class.
+and signed-up for a free class.
 
 The big event for today was the Ohio RV and Boat Show.
 Marilyn and I wanted to get another RV from the time Chelle
@@ -67,8 +67,10 @@ Last time I was at this place was with Marilyn. I clearly remembered
 and could not get away from that memory. Wish she was there.
 
 Josh and Christina were there! I heard Josh say to Talan,
-"Wanna say hi to Rick?". Christina's parents were there too.
-It was nice to see known neighbors.
+"Wanna say hi to Rick?". That's a familiar voice, so I turned.
+"Well hi!", and ironically I had considered txting him to ask
+if they wanted to go to the RV show. Christina's parents were
+there too. It was nice to see known neighbors.
 
 The very smell of some of the trailers reminded me of that
 four-year span when we too had a travel trailer. The whole experience
@@ -97,14 +99,14 @@ Storms were predicted and it rained at the expo center.
 
 The wind is making the house creak.
 
-Mark Mundel sent me a message via Facebook
+Mark Munden sent me a message via Facebook
 that Lois Evans died on December 30. Wow ... how did I miss that?
 She had biliary cancer (the bile ducts leading from the liver)
 which is similar to Marilyn's condition.
 
 Tony Evans spoke for more than a half hour at his wife's memorial.
 I could not do that. But I do pray this, "Lord, shine your glory
-through our life.".
+through our life.", meaning my own but also Chelle and Martin.
 
 https://www.youtube.com/watch?v=Qa0quYA9pNU
 
