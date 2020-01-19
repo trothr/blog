@@ -48,6 +48,8 @@ It's like I rode on her coattails with respect to genuine FAITH.
 At the end of each chapter of this book is a prayer.
 From the prayer at the end of chapter 8, there's this:
 
+(Gotta love that 19th century writing.)
+
 *Rise, O Lord, into Thy proper place of honor, above my ambitions,
 above my likes and dislikes, above my family, my health and even
 my life itself.*
