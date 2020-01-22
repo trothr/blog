@@ -44,6 +44,7 @@ One photo that grabbed my heart is this ...
 ![1993-mm-25.jpg](https://github.com/trothr/blog/blob/master/images/1993-mm-25.jpg)
 
 Love it!
+Twenty something years goes by fast.
 
 While in Virginia, we went to church with Steven and Courtney
 and their kids, then lunch, then movies. We also had time
