@@ -10,6 +10,8 @@ Drove near the place we went for Sapphire (our particular home schooling
 I taught a couple classes too. It was a happy time: I for one felt
 a sense of purpose and community in those days.
 
+That was 2010. Now it's 2020.
+
 Got to the meeting, a security thing. First local technical "meetup"
 that I've attended in several months. Left early for a second appointment.
 As I was leaving, something triggered a memory of when we first came to Ohio.
