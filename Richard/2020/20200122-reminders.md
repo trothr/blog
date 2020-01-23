@@ -8,16 +8,16 @@ I had a local tech meeting first thing this morning.
 Drove near the place we went for Sapphire (our particular home schooling
 "enrichment program"). Marilyn was *so* in her element at Sapphire.
 I taught a couple classes too. It was a happy time: I for one felt
-a sense of purpose and community.
+a sense of purpose and community in those days.
 
-Got to the meeting. First local technical "meetup" that I've attended
-in several months. Left early for a second appointment. As I was leaving,
-something triggered a memory of when we first came to Ohio.
+Got to the meeting, a security thing. First local technical "meetup"
+that I've attended in several months. Left early for a second appointment.
+As I was leaving, something triggered a memory of when we first came to Ohio.
 
 Marilyn helped me get established. We were a team.
 I depended on her. (And now without her I'm floundering ... so much to do!
-Little idea HOW to proceed.) I drove up from Houston. She flew.
-We met in Columbus. I picked her up at CMH (now John Glenn airport).
+Little idea HOW to proceed.) December of 2005 I drove up from Houston.
+She flew. We met in Columbus. I picked her up at CMH (now John Glenn airport).
 
 For a moment, just an instant, it was a happy memory!
 But then the sense of loss overwhelmed me.
@@ -89,6 +89,10 @@ It does not help to know there are other families feeling similar loss.
 I wind up going empathetic and hurting for the other people too.
 
 I'm choosing to look toward God.
+
+I did walk today. Cold, but managed to get out while still had sun.
+Need sunshine. Probably should get a vitamin D supplement. Jeff and Trent
+came over for our Wednesday men's group. We read Psalm 20:1-5.
 
 Pray for me. I'm still in shock. I'm frightened.
 
