@@ -5,10 +5,10 @@ Somehow today I'm hit by reminders.
 ## Reminders in Town
 
 I had a local tech meeting first thing this morning.
-Drove near where we went for Sapphire (our particular home schooling
-"enrichment program"). 
-past places that we went as a family or that Marilyn had taken
-the kids.
+Drove near the place we went for Sapphire (our particular home schooling
+"enrichment program"). Marilyn was *so* in her element at Sapphire.
+I taught a couple classes too. It was a happy time: I for one felt
+a sense of purpose and community.
 
 Got to the meeting. First local technical "meetup" that I've attended
 in several months. Left early for a second appointment. As I was leaving,
@@ -51,8 +51,8 @@ also used while Marilyn was in the hospital
 
 In the bathroom:
 
-* hairclips (which I had washed when she was out of town, 
-then placed back where they were left)
+* hairclips (which I had rinsed off from the dust while she was in Texas
+last year and then placed back where she had left them)
 
 * a hairband she used for keeping her hair out of her face
 when washing
@@ -69,7 +69,8 @@ In the den:
 
 * an escape ladder (second floor, fire safety) which the Security Queen ordered years ago
 
-* a picture of her and me when we were dating, pictures of us with the kids in DC, another wearing "Santa caps"
+* a picture of her and me when we were dating, pictures of us
+with the kids in DC, another of the four of us wearing "Santa caps"
 
 * her Buckeye necklace
 
@@ -77,10 +78,22 @@ In the den:
 
 * her sunglasses
 
-Pray for me.
+## Hoping for Healing
+
+I met with Jim Stevanus again today. We went over Ephesians 1-3 again.
+I need to get my affirmation, my value, my importance from Christ.
+Men tend to derive their significance from achievements.
+
+I keep bumping into the *circumstance* every time I turn around.
+It does not help to know there are other families feeling similar loss.
+I wind up going empathetic and hurting for the other people too.
+
+I'm choosing to look toward God.
+
+Pray for me. I'm still in shock. I'm frightened.
 
 Dear God, You are the only One who can heal this hurt.
-Please fill the void.
+Please fill the void. Please hold me in Your hand.
 
 2020-01-22 Wednesday
 
