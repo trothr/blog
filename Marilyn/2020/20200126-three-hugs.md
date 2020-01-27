@@ -14,18 +14,22 @@ The kids both got that quality from their mom.
 
 Heavy! I mean in a *good* way.
 One of the BlanQuil sales slogans is, "reclaim your calm".
+These are nice! Really effective.
 
 Between dealing with the gallbladder trouble
 and then the hospital stay, she and I never got to talk about them.
-What exactly did she intend be done with them?
+What exactly did she intend be done with them? I know she planned
+to give them as gifts, just because I knew Marilyn. I just don't
+remember the details of the order, what prompted it.
 
 ## Make them for Christmas
 
 Chelle figured it out.
 Mom ordered them for her, Martin, and me.
+Maybe it's obvious to all of you reading this
 
 We took them as early Christmas gifts
-and went to Granger for the holiday.
+and went to Granger for the holiday after returning from Texas.
 These things are really teriffic.
 Reclaim your calm indeed!
 
