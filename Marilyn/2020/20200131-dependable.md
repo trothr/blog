@@ -20,8 +20,9 @@ to be spontaneous, which often helped Marilyn. We were well matched.
 ## Responsible
 
 When we first met, I would not have realized her dependability.
-Today I was packing for a trip, realized I'd be on toll road part of
-the way. Got an EZ-Pass several months ago. It's never been activated!
+
+Today I was packing for a trip, realized I'd be on toll road part of the
+way. Had gotten an EZ-Pass several months ago. It's never been activated!
 I had wanted Marilyn to do it, and she would have. (But at the time
 she was in Corpus Christi.) In fact, she would probably have realized
 several days that we needed to activate the EZ-Pass and already done it.
