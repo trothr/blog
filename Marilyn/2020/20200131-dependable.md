@@ -35,6 +35,16 @@ the most complicated thing I have to do on any given day is click
 "skip" on an Amazon order. (Like paper towels, of which we have
 more than we need now that only ONE person is using them.)
 
+## Faithful
+
+What's that verse? "Faithful in a little thing ..."?
+
+There it is: Luke 16:10, "He who is faithful in what is least is faithful
+also in much; and he who is unjust in what is least is unjust also in much."
+
+Marilyn was good about being faithful in little things and large things.
+She didn't like lengthy projects, but she DID like seeing things wrapped up.
+
 ## Solitary but Breathing
 
 It's really tough being in the house by myself.
