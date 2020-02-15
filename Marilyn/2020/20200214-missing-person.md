@@ -42,7 +42,11 @@ helping someone. Around 1996, Diane was due to deliver Leslie.
 Bill and Helene were already caring for Elaine and Gray.
 To free them up so Helene could help Diane, Marilyn and the kids
 went to Dallas. I had to work, but managed to fly up just before
-my baby niece was born.
+my first niece was born.
+
+In June of 2012 we got our first niece on Marilyn's side.
+Aunt Marilyn went down to help mom Toni when Nia was born.
+So exciting and such a happy time. She loved Nia and Nyla so much.
 
 Nothing gave Marilyn more joy than helping others. It didn't even
 have to be interesting or fun work. She took on the duties of clean-up
