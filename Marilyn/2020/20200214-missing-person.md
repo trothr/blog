@@ -69,7 +69,7 @@ I looked for that photo.
 Was going to put it into this post.
 If I find it later, I'll update this post.
 
-It will stay on the fridge for a while longer.
+That printed copy will stay on the fridge for a while longer.
 
 2020-02-14 Friday
 
