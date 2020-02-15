@@ -6,9 +6,12 @@ on the fridge with the caption, "If you have seen this person, please
 CALL DAD.". When she got back that summer, we just left the photo up
 because we all liked it. Marilyn got a kick out of it.
 
+This must have been summer of 2018. I remember Chelle living in Grove
+City at the time. That would have been just before she moved to Reston.
+
 ## Visiting Family
 
-I live in a big empty house. It wasn't always empty.
+I live in a big empty house now. It wasn't always empty.
 (And it's not really all that big compared to some houses.)
 
 We bought a house that could be used for having people visit.
