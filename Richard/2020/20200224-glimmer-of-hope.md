@@ -29,7 +29,7 @@ Sadly that's not a spectator sport.
 
 The rain is peaceful, even pleasant. The clouds I could do without.
 
-## Escape from Solitude
+## Escape from the Solitude
 
 Gotta get out of the house!
 
@@ -64,7 +64,7 @@ Marilyn picked out. Had to remind myself, "They're just towels.".
 
 Have to remind myself, "It's just a house.".
 
-## Persistent Pain
+## Persistent Pain versus Possible Progress
 
 Grief Share last night didn't help.
 GS usually helps, but last night a major theme was "pain heals".
@@ -124,7 +124,8 @@ is compounded. Life is hard.
 So we found out it wasn't just gallbladder. It was cancer.
 Someone forwarded to me some wise writings of several Christian leaders.
 One said, "Don't waste your cancer.", meaning: take advantage of this
-horrible thing to give glory to God, to learn, to reach people. Okay.
+horrible thing to give glory to God, to learn, to reach people.
+Okay, fine, will do.
 
 Don't waste your grief
 
@@ -135,17 +136,7 @@ Supposedly.
 
 But I don't know how much more I can take!
 
-When I cry, the sound of my own voice is frightening.
-
-* isolation and disconnect from church
-* the empty nest
-* having lost Mom
-* having lost Gene
-* pursuing a purposeful profession
-* need to get out of debt
-* wanting to resume the camping and travel hobby
-
-That last one ... hard to imagine without Marilyn.
+When I cry, when I weep, the sound of my own voice is frightening.
 
 ## Glimmer of Hope
 
