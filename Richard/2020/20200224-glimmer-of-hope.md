@@ -7,8 +7,8 @@ How long will friends and family put up with my ramblings?
 ## Signs of Hope
 
 Friday, after meeting with the counselor,
-there was a glimmer of hope. It only lasted a moment.
-More on that below.
+there was a ray of hope, the light at the end of the tunnel.
+It only lasted a moment. More on that below.
 
 I have to call out daily, even hourly, sometimes even more often.
 When I call out, when I cry for help, God provides.
@@ -138,7 +138,7 @@ But I don't know how much more I can take!
 
 When I cry, when I weep, the sound of my own voice is frightening.
 
-## Glimmer of Hope
+## A Glimmer of Hope
 
 After meeting with Pastor Jim on Friday,
 for just a moment there was a sense of hope about the future,
