@@ -7,3 +7,7 @@ She often preferred to call me Richard,
 so this space is named Richard.
 
 
+Glimmer of Hope
+2020/20200224-glimmer-of-hope.md
+
+
