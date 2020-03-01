@@ -25,6 +25,26 @@ seeing the people. Oh Lord, please help!
 Nobody called. Got no email. But He calmed my heart.
 Thank you, Lord!
 
+## The Storm
+
+No doubt much of this storm is just emotion.
+
+What about when it's not? What about when it's something else?
+What about when it's a *spiritual* thing, supernatural attack?
+And how can I tell the difference?
+
+Skipping church may be the single worst thing I've done in life.
+It's not some ritual. (Though ritual helps people like me who so
+desperately need structure.) And it's not as if occasional interruptions
+are harmful. But I've allowed it too often, resulting in lost fellowship.
+
+The solitude continues to weigh on me.
+
+Dear God redeem the time I've wasted.
+
+And then as I'm about to post this, I got email from Brian.
+Thank you Lord!
+
 ## Psalm 61
 
 Hear my cry, O God; attend to my prayer.
@@ -43,11 +63,11 @@ Oh, prepare mercy and truth, which may preserve him!
 
 So I will sing praise to Your name forever, that I may daily perform my vows.
 
-## Psalm 61 tomorrow
+## Psalm 62 tomorrow
 
 This year, I've been reading the Psalms.
 Today is the 61st day of the year. Tomorrow is the 62nd,
-so I noticed the first paragraph of Psalm 62:
+so before closing I noticed the first paragraph of Psalm 62:
 
 "Truly my soul silently waits for God; from Him comes my salvation.
 He only is my rock and my salvation; He is my defense;
