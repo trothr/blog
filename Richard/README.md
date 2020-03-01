@@ -6,6 +6,8 @@ to accompany the tribute journal space for Marilyn.
 She often preferred to call me Richard,
 so this space is named Richard.
 
+## latest journal entries
+
 ![20200224 Glimmer of Hope](2020/20200224-glimmer-of-hope.md)
 
 ![20200219 no rest](2020/20200219-no-rest.md)
