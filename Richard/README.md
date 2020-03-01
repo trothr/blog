@@ -10,4 +10,8 @@ so this space is named Richard.
 Glimmer of Hope
 2020/20200224-glimmer-of-hope.md
 
+![Glimmer of Hope](2020/20200224-glimmer-of-hope.md)
+
+
+
 
