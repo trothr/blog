@@ -2,6 +2,8 @@
 
 I had to go to New Jersey to meet with a channel partner.
 
+This is a three-day post.
+
 ## First Trip
 
 This was my first business trip since losing Marilyn.
@@ -11,12 +13,13 @@ It was harder than I expected.
 What was harder?
 For one thing, I had to turn around for a couple things I forgot.
 But the real difficulty was just getting all organized for the trip.
+Packing, sure, but more: the planning, what to take.
 
 ## Weather Lady
 
-I've mentioned that Marilyn loved watching weather,
+I've mentioned that Marilyn loved watching the weather,
 seeing storms, tracking things. As I left Columbus this morning,
-It was raining. I wished I could hear from Marilyn,
+it was raining. I wished I could hear from Marilyn,
 how long the rain would last, where I might expect clearing.
 
 I wished she was there to talk to me about the weather.
@@ -33,7 +36,7 @@ Trying to make the best use of the time, a very long drive.
 Would like to get some audio books.
 
 AGAIN, no fits of rage. Praise God!
-But the sadness and grief seems to be mounting.
+But the sadness and grief seem to be mounting.
 
 ## Dinner with Kevin
 
@@ -42,13 +45,16 @@ I had found Stage House Tavern. Some team members responded
 that they liked that choice, and it was a great place!
 
 Turns out Kevin lives in Dallas (Plano actually). Wow.
+He moved his family to Texas from Michigan sometime around 1996.
+He has three daughters and three grandchildren.
+
 Why did we ever leave Texas?
 
 ## Happy Birthday Jo Ann
 
 Today was Jo Ann's birthday.
 I tried several times to call her while on the road.
-She said her ringer is misbehaving. (The nature of smart phones,
+She said her ringer is misbehaving. (Given the nature of smart phones,
 I believe her!) We finally connected. She got the flower arrangement
 from the kids. Yay! She sounded so happy! And she said it had been
 a good day. Praise God!
@@ -65,8 +71,11 @@ Tried to *not* turn on the TV, but eventually did.
 Back to the Future was showing. That's the movie we saw
 the night I asked her to marry me.
 
-Things like the movie don't depress me ... not directly, at least.
-Maybe they add to the pile of emotions? I don't know.
+Things like the movie don't depress me ... at least not directly.
+Maybe they add to the pile of emotions? I don't know. There's definitely
+a pile of emotions. Some people see progress, but I'm not so sure.
+
+Turns out it's a bit depressing *now* to write about it.
 
 2020-03-02 Monday
 
@@ -80,6 +89,7 @@ I had not been in a machine room for probably FIVE years.
 Kevin installed his product. I installed my product.
 We demonstrated for the partner's team how things work.
 They were *very* happy with the results. Praise God!
+It was a real pleasure to be working with other techies again.
 
 We passed the "success criteria".
 One part of my product didn't work quite right, but it gives me
@@ -88,29 +98,38 @@ Wish I could do more. (Wish certain leaders would *use* what I write.)
 
 ## Carolyn and Frank
 
-I drove from Somerset up to Demarest.
-It's amazing how accurate the navigator app is.
-It kept guessing I'd arrive at 7:15 and that's exactly
-when I got there.
+After my time with the business partner, I drove from Somerset
+up to Demarest to have dinner with Carolyn and Frank. It's amazing
+how accurate the navigator app is. It kept guessing I'd arrive at 7:15
+and that's exactly when I got there. Memories in this house from my
+childhood. Diane and I stayed with them at length one summer.
 
-I had a great visit with Carolyn and Frank.
+In those days, Uncle Frank found his old Heathkit W5M amplifier
+and FM-3A tuner and gave them to me. I tinkered with them; had a blast!
+
+Back to current time. I had a great visit with Carolyn and Frank.
 (For those who don't know, Carolyn is my mom's sister.)
 I almost wonder if the whole trip was just a God thing
 for me to get to see them. Aunt Carolyn expressed that she hopes
 they'll see more of me in coming months. (My official territory
 now covers the area, so that's likely.)
 
-Going back to the hotel, better part of an hour,
-I started to zone out. Needed some tunes! So I brought up
-the music player. This meant I had to listen to some songs that I
+Going back to the hotel took the better part of an hour.
+I started to zone out. Needed some tunes! So I brought up the
+Android music player. This meant I had to listen to some songs that I
 had been putting off. In particular, Knees to the Earth was still there.
 It did not kill me. I made it through the song.
 
+This is one of my favorite songs. It's deep. It's worship.
+But significantly, I had played it for Marilyn while she was in ICU
+and hoped to tell her, "I played this for you while you were in the ICU.",
+when she recovered.
+
 Music affects me. Why? I don't know. Does it affect other people?
-Diane said music affects Chelle. I didn't know, but probably should
-have recognized that. I was struggling before (with respect to music),
+Diane said music affects Chelle. I did not know that, but probably should
+have recognized it. I was struggling before (with respect to music),
 but now with the hole in my heart ... I just don't know. So it was GOOD
-taht I was able to listen to these tracks without collapsing into tears.
+that I was able to listen to these tracks without collapsing into tears.
 
 2020-03-02 Tuesday
 
@@ -122,8 +141,8 @@ Reminds me of the trip we took for our first anniversary.
 She left a gown on a hanger in the bathroom. The hotel mailed it to us.
 
 I walked the treadmill. Praise God! Was afraid I was late, but then saw
-that I had a solid two hours. Also checked some work email. (It had to
-be done.) Then suddenly my extra time was gone! Ouch. Now having to rush.
+that I had a solid two hours. So I also checked some work email. (It had
+to be done.) Then suddenly my extra time was gone! Ouch. Now having to rush.
 
 I miss her so much.
 Going home now. But why? She's not there.
@@ -136,7 +155,11 @@ I've cried out to God a lot.
 It's become just that: a cry, not a scream. That's progress.
 And He provides! Praise God! But I'm scared. What if I stumble?
 
-But the sadness and grief seems to be mounting.
+The sadness and grief seem to be mounting.
+
+I was hurting before Marilyn got sick.
+Is my grief compounded by the prior problem?
+Or is the older burden compounded by this tragic loss?
 
 ## Mens' Group
 
