@@ -48,6 +48,8 @@ inspired by God's work in Jeremy's life after Melissa died.
 I had no idea. Did not know any of the Melissa story when I first
 heard the music. But then I heard, and now there's a movie. Cool!
 
+https://en.wikipedia.org/wiki/I_Still_Believe_(film)
+
 ## What are your Plans?
 
 I shared this dilema with the Monday Grief Share group.
