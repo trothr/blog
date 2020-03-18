@@ -8,11 +8,12 @@ Today, much of the US population are "shelter in place" quarantined.
 
 34 years ago today, Marilyn and I were on our honeymoon.
 After two nights in Houston, we flew to Denver and then drove to Granby.
-We had green champagne on the plane.
+We had green champagne on the plane. Stayed at the Inn at Silver Creek
+for the week.
 
 This past Sunday was our anniversary.
 I was in Virginia with Chelle and Martin. We toasted to Mom,
-hiked the Marilyn side of Great Falls, and took in two great movies.
+hiked the Maryland side of Great Falls, and took in two great movies.
 
 ## Shamrocks
 
@@ -22,8 +23,8 @@ One neighbor suggested a "shamrock hunt": put a shamrock in your window.
 She and her kids would walk the neighborhood and count the shamrocks.
 No human interaction needed.
 
-I didn't see many other shamrocks. I do hope they found a good count
-on their hunt. Seems like a great idea!
+I went for a walk. Didn't see many other shamrocks.
+I do hope they found a good count on their hunt. Seems like a great idea!
 
 ## Quarantine
 
@@ -32,7 +33,8 @@ When you have solid community connections, working from home is great!
 But I've lost a lot of "connections". Marilyn was my biggest "connector",
 though I lost a lot of connectedness before I lost her.
 
-Lots of people working from home who have not before.
+Lots of people working from home who have not before
+because of the coronavirus. Welcome to my world!
 
 Ironically, lots of students being *home schooled* for the first time.
 
@@ -54,9 +56,12 @@ That ambushed me: tears flowed. This happens. It's going to happen.
 
 I'm okay.
 
+There were a couple of *good* things which also brought tears.
+God is doing amazing things.
+
 Thank you to the friends and family who have prayed for me
 and called me and visited me ... God is good and I thank HIM
-for your support. The journey is long, but I do see God's hand.
+for your support. This journey is long, but I do see God's hand.
 
 I'm sad again/still, but I'm okay. Don't worry; just pray.
 Not just for the kids and me, but lots of others needing prayer today.
