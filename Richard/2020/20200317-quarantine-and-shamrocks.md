@@ -64,8 +64,8 @@ and called me and visited me ... God is good and I thank HIM
 for your support. This journey is long, but I do see God's hand.
 
 I'm sad again/still, but I'm okay. Don't worry; just pray.
-Not just for the kids and me, but lots of others needing prayer today.
-And thank God for His provision.
+Not just for the kids and for me, but for countless others needing prayer
+today. And thank God for His provision.
 
 2020-03-17 Tuesday, St. Patty's Day
 
