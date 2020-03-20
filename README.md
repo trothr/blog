@@ -8,7 +8,7 @@ little weird. Sorry about that and please bear with me.
 
 It's also a learning experience.
 For one thing, I don't really know that four blogs should be
-under a single "project" (in Git speak), so things might chane.
+under a single "project" (in Git speak), so things might change.
 
 ## Marilyn
 
@@ -32,11 +32,19 @@ lose track of details. Some details are here so that I don'g forget.
 
 ## Sir Santa
 
+This blog is where I talk tech. The Knights of VM called me "Sir Santa".
+
+https://github.com/trothr/blog/tree/master/sir.santa/
+
 Some entries for the Sir Santa blog may also be found on Blogspot.com.
 
 https://sirsanta.blogspot.com/
 
 ## Truth Cowboy
+
+This blog is where I talk truth, to the extent I am able.
+
+https://github.com/trothr/blog/tree/master/truth.cowboy/
 
 Some entries for the Truth Cowboy blog may also be found on Blogspot.com.
 
