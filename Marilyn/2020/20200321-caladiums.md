@@ -5,22 +5,22 @@ Aloneness is amplified.
 
 ## Get Outside
 
-After a late start, I had a couple of "test" meetings
-with people from the Grief Share groups to figure out
-which services work best.
+After a late start, I had a couple of "test" meetings with people
+from the Grief Share groups to figure out which conferencing services
+work best. We'll try to continue meeting using Google Hangouts "Meet".
 
 Still cold this afternoon, barely 40 degrees.
 I'm so tired of the cold.
 
 I noticed tar felt sheets outside which had been scattered by winds
 in recent days, so I went outside to put those back into place.
-That exercise reminded me of the landscaping Marilyn loved.
+That exercise reminded me of the gardening and landscaping Marilyn loved.
 
 ## Loving Landscaping
 
-Did she really love landscaping? She must have.
+Did she really love gardening? She must have.
 
-The yard is incomplete, but what there is of it
+Our yard is incomplete, but what there is of it
 bears her marks. I have things to finish, like a trench drain
 in the front bed to match the other trench drain. I've also
 been wanting to get a blue spruce and plant it where it will
@@ -35,20 +35,23 @@ I miss the life that we had together.
 
 Somewhere there's a photograph.
 
-When Marilyn and I first got married, we lived in an apartment
-on the outskirts of town. It had been her place when she moved there.
-I had slowly moved things in, then moved myself in after the wedding.
+When Marilyn and I first got married, we lived in an apartment on the
+outskirts of Bryan, Texas. It had been her place when she moved there.
+I had slowly moved things in, then moved myself in after our wedding.
 
-Ground floor. There was a grassy area outside the door.
+The apartment was on the ground floor.
+
+There was a grassy area outside the door of the apartment.
 But the trees were thick enough that the grass didn't grow well.
 So she had the idea to plant some caladiums.
 
 We planted.
 I remember that I wasn't all that keen about the task.
+But the result looked great!
 
 I'd give almost anything today to be planting caladiums with her again.
 
-I'd give almost anything today to be fixing up this place with her again.
+I'd give almost anything today to be fixing up *this* place with her again.
 
 Somewhere there's a photograph of the two of us
 proudly showing the fruit of our labor.
@@ -66,7 +69,10 @@ We've loved this place. I remember going there with Chelle and Martin.
 Other times with Gene and Jo Ann too.
 
 Last time we patronized the place we did take-out.
-It was good. It was nice.
+It was good. It was nice. Marilyn waited in the car.
+I wonder now if she wasn't feeling well at the time.
+
+I'd give almost anything today to have her ride with me again.
 
 Just one steak this time.
 
