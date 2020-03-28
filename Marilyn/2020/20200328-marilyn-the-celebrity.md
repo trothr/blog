@@ -1,4 +1,4 @@
-v# Marilyn the Celebrity
+# Marilyn the Celebrity
 
 Bet y'all didn't know Marilyn was on the air.
 
