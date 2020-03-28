@@ -86,12 +86,12 @@ to call in during the show. We could ask Dave himself. I said do it.
 Forgetting now exactly what the question was, but I remember that
 ole Dave didn't give us the thoughtful answer we were after.
 (It was more of a common sense rebuttal, thank you, or not.)
-But she got on the air yet agani.
+But she got on the air yet again.
 
 ## Twitter and Facebook
 
 Later, Marilyn "followed" various local
-radio and TV personalities on Facebook or (especially Twitter.
+radio and TV personalities on Facebook or (especially) Twitter.
 Occasionally she'd comment on a post and actually get a response
 from the celebrity of the page in question.
 
