@@ -14,6 +14,8 @@ There have been many tributes. This tribute is rather intimate.
 
 ## latest journal entries
 
+![20200328 Marilyn the Celebrity](2020/20200328-marilyn-the-celebrity.md)
+
 ![20200321 Caladiums](2020/20200321-caladiums.md)
 
 ![20200312 Miss You](2020/20200312-miss-you.md)

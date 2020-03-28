@@ -26,7 +26,7 @@ I had KSBJ on the car radio. They read a letter from a listener,
 some couple new in town, how much the music and programs meant
 to them. The letter was signed ...
 
-"Love, Marilyn Troth"
+*"Love, Marilyn Troth"*
 
 Marilyn Troth?!?!?
 That's my wife!!!
