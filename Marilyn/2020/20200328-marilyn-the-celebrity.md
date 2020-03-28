@@ -1,4 +1,4 @@
-# Marilyn the Celebrity
+v# Marilyn the Celebrity
 
 Bet y'all didn't know Marilyn was on the air.
 
@@ -109,6 +109,9 @@ A final note about CEF:
 This is why we set-up Marilyn's memorial
 at Samaritan's Purse to support their children's ministry.
 She loved children's ministries most of all.
+
+Jan Tyler died of cancer a few years before we moved to Ohio.
+Marilyn was devastated. Jan had been a real mentor.
 
 I wish that she had lived long enough to hold her own grandchildren.
 God had another plan. I'm trying to get in line with His program.
