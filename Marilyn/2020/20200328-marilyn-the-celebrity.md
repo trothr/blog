@@ -4,6 +4,8 @@ Bet y'all didn't know Marilyn was on the air.
 
 I was so proud of her.
 
+Something this past week reminded me of her on-the-air times.
+
 ## KSBJ
 
 I took a job at Rice University.
@@ -104,6 +106,13 @@ but who would happily interact with someone with star power.
 
 Because of Coronavirus, I'm cooped-up at home.
 Lots of reminders of my Marilyn Kay.
+
+I think of our dear friends Jim and Jube. Even before CEF,
+Marilyn had begun home schooling Chelle and Martin.  Jim and Jube
+are pillars in the Texas home schooling movement, having endured
+the early days when a truant officer might come knockin at your door.
+They're celebrities too, but always treated us with the utmost
+love and kindness and hospitality.
 
 A final note about CEF:
 This is why we set-up Marilyn's memorial
