@@ -9,6 +9,10 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20200329 Broken Souvenir](2020/20200329-broken-souvenir.md)
+
+![20200317 Quarantine and Shamrocks](2020/20200317-quarantine-and-shamrocks.md)
+
 ![20200311 Triple Tap](2020/20200311-triple-tap.md)
 
 ![20200302 Business Trip](2020/20200302-business-trip.md)
