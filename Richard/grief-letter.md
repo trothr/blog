@@ -105,11 +105,24 @@ everything everyone suggests.
 If you think I'm doing something wrong, it's alright to say so.
 (Proverbs 27:5, "Open rebuke is better than love carefully concealed.")
 
+It's ironic that the global quarantine hit us as I started this journey.
+Others are suffering *far worse* than I am. I have 33 years of great
+memories. Many don't. I still have a comfortable house and a great job.
+Countless thousands ... even millions ... don't. To the extent that I
+can help someone else, it gets my eyes off of my own pain. Praise God!
+
+So if I can help YOU with something, please ask! It will help me!
+You cannot imagine what a blessing it is to have something to do
+that means something to someone other than myself.
+
 ## What Next
 
 As of this writing, I'm not moving, nor selling the house.
 I do have a boatload of things to do, lots of junk to get rid of.
-Marilyn wanted to get rid of the excess anyway.
+Marilyn wanted to get rid of the excess anyway. Somewhere there's
+a notepad with a short list of grand projects. Marilyn, being the
+organized one, wrote down our goals and ideas for this house.
+Some of those projects *must* happen.
 
 I had been involved in the men's group at First Baptist Grove City.
 That involvement has deepened. Prior to the Coronavirus lock-down,
@@ -126,6 +139,8 @@ defense. I am very vulnerable. Chelle and Martin are vulnerable too.
 Praise God for opportunities to help others!
 But there too, disruptions (natural) and attacks (supernatural)
 are a real problem. Some days are good. Some days are not so good.
+
+I pray a lot. (I was praying a lot before Marilyn got sick.)
 
 Long term, I want to know Christ.
 Long term, I want to build into others.
