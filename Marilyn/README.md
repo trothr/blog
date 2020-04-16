@@ -14,6 +14,10 @@ There have been many tributes. This tribute is rather intimate.
 
 ## latest journal entries
 
+![20200416 The New November](2020/20200416-november.md)
+
+![20200415 Sunshine and Solitude](2020/20200415-sunshine-and-solitude.md)
+
 ![20200328 Marilyn the Celebrity](2020/20200328-marilyn-the-celebrity.md)
 
 ![20200321 Caladiums](2020/20200321-caladiums.md)
