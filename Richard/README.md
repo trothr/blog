@@ -9,6 +9,10 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20200415 Being Still](2020/20200415-be-still.md)
+
+![20200412 He is Risen!](2020/20200412-he-is-risen.md)
+
 ![20200402 We Danced](2020/20200402-we-danced.md)
 
 ![20200329 Broken Souvenir](2020/20200329-broken-souvenir.md)
