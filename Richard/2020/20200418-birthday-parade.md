@@ -97,7 +97,7 @@ Michele Soles provided candles to go with one of the (now three!)
 cakes. Chelle and Martin and I held another Zoom call as I lit
 the candles and they sang.
 
-## Tears Again
+## A Good Day
 
 Tears again, but joy, not sadness.
 Incredible to see such an outpouring.
@@ -108,6 +108,11 @@ But even as great as this day has been, I know that her joy
 is better. As much as I miss her, I would not want to take that
 away. The day will come when the lot of us will be there with her
 and with Jesus.
+
+It's common for people to ask, "how are you?".
+It's common for us who grieve to respond, "okay".
+The goal is us who grieve to be able to say, "good".
+Can't say that I've passed that mile-marker, but today was definitely "good".
 
 I'm sitting here with a pile of cards and notes
 (haven't yet been able to read them all!) and a full heart.
