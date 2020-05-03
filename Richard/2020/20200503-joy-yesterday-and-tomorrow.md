@@ -2,7 +2,7 @@
 
 The theme of the Grief Share program is
 "from Mourning to Joy". When I first participated in that program,
-I had my doubts.
+I had my doubts. But it *does* happen.
 
 ## Joy Yesterday
 
@@ -21,6 +21,7 @@ a well-timed reminder and got me choked up. The God who made me
 knows my heart, knows my pain, and has endured worse pain on my behalf.
 So I shared it on Facebook.
 
+Facebook ... I posted ... friends reacted.
 I AM SO BLESSED.
 Most (all?) of my FB connections know the recent story and are
 so incredibly supportive. With this post, I felt like I had been
@@ -38,7 +39,7 @@ This house is filled with photos.
 
 ## Joy Today
 
-Speaking of music, A friend sent the following and said to play it
+Speaking of music, A friend sent the following and told me to play it
 LOUD, to the point of making my speakers shut-off. (I have a nice
 Kenwood receiever that I bought for Marilyn. It realy will shut off
 when it gets pushed too hard. Hah!)
@@ -54,8 +55,8 @@ A couple weeks ago, I saw the online view of drive-in service
 at Misty's church. Nice!
 
 We say "amen" a lot. (I know. Shocking, eh?)
-As I've heard other churches do, we did the honk-your-horn thing
-just like at Misty's church. Yessss!!! What joy!!!
+As I've heard other churches do, we did the honk-your-horn thing.
+It was just like at Misty's church. Yessss!!! What joy!!!
 
 Yesterday I visited with a good friend from Grief Share
 who also lost a spouse. We were able to talk candidly about
@@ -80,8 +81,8 @@ The three of us are so close, so many sites to see, places to visit.
 Oh dear God please heal the holes in our hearts.
 
 For a moment, I thought I could only enumerate joys from times past.
-Then the Lord seemed to say that I can count on joy in times to come
-because He will be there, He will bless us, He has plans.
+But no! Then the Lord seemed to say that I can count on joy in times
+to come because He will be there, He will bless us, He has plans.
 He took Marilyn; she now has joy. He left us here; He wants to give us joy.
 
 So this was a light that went on:
