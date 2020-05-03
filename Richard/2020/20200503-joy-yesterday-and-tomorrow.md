@@ -1,4 +1,4 @@
-# Joy Yesterday And Tomorrow
+# Joy Yesterday, Today, and Tomorrow
 
 The theme of the Grief Share program is
 "from Mourning to Joy". When I first participated in that program,
