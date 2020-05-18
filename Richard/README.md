@@ -9,6 +9,8 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20200518 All In](2020/20200518-all-in.md)
+
 ![20200503 Joy Yesterday, Today, and Tomorrow](2020/20200503-joy-yesterday-and-tomorrow.md)
 
 ![20200418 Birthday Parade](2020/20200418-birthday-parade.md)
