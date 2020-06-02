@@ -55,7 +55,7 @@ Next moment, I realized, that's not God. He doesn't talk that way.
 And then I had peace.
 
 A couple weeks later, Marilyn says to me in this sweet voice,
-"Honey, I like your new car.". Ahhhh.... yes!
+"Honey, I like your new car.". Ahhhh..... yesssss! Mission accomplished!
 
 We all came to love that car.
 By the time the kids could drive, it was in demand for any excursion.
@@ -79,8 +79,8 @@ He quickly found Carolyn.
 
 Knowing Carolyn will take time. I'm committed to it!
 She's a dear woman with her own loving legacy, three sons,
-and now three husbands. But we were not supportive. The four of us
-just weren't ready for my dad's new reality.
+now three husbands. But we were not supportive. The four of us
+just weren't ready for my dad's new reality. We were hard on him.
 
 I did not empathize.
 I'm usually *very* empathetic, but not always with some people.
@@ -93,13 +93,14 @@ Now it's my turn, and the loneliness is profound.
 On reflection, I don't think I fully grieved for Mom until Marilyn was
 also taken from me. But that's another story. Anyway, it hurt ... bad.
 
-Earlier this year, this voice came to me, no clenched teeth,
-but dripping sarcasm,
+Earlier this year, this voice came to me, comparing Dad and me,
+no clenched teeth, but dripping sarcasm,
 
 *Now you know how it feels!*
 
-It took a while, but then I realized, that's not God.
-He doesn't talk that way. God also doesn't throw things at us just to
+									<
+It took a while, but then I realized, that's not God. He doesn't talk
+that way. It happened again! God also doesn't throw things at us just to
 "pay us back" for having been hard on someone else. He doesn't force us
 into some sort of coerced empathy or faux sympathy.
 
