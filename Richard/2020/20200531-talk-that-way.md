@@ -118,7 +118,7 @@ I should probably have a blog post about that:
 DEATH IS NOT "JUST PART OF LIFE". Death is not part of God's creation.
 Next time you hear someone say, "death is just part of life", take them
 to task for that comment! Maybe they think that's helpful? IT'S NOT.
-And I'll be glad to share (verbally) "how it feels".
+And I'll be glad to share (verbally but vigorously!) "how it feels".
 
 The enemy twists truth.
 YES, I now know experientially how Dad felt.
