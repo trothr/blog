@@ -9,7 +9,7 @@ Lampa, Lewis, LaRue & LaRue
 
 Summer of 2005, we bought a Prius.
 Took a while to find one witout "paint sealer" and other
-doubtful dealer add-ons. Finally found one up in Conroe.
+doubtful dealer details. Finally found one up in Conroe.
 
 Marilyn had a fender bender with the neighbor resulting in the Suburban
 ("her" vehicle) being in the shop for several days. She had to drive
@@ -20,6 +20,7 @@ time and money into maintaining the Suburban.
 
 "You need a new car.".
 Okie, dokie, thank ye, honey.
+(Now how to pay for it? That's another story.)
 
 The kids chimed in, "Let's go look at one of those hybrids
 you're so gah-gah about.". My family knows me too well.
@@ -29,6 +30,7 @@ Toyota Camry (which I drive now, ironcally, *and* which is now paid off,
 praise God!), or the Toyota Prius. That year, the Prius still had a premium.
 I wanted the Prius. I was willing to get the Camry or Accord, and would
 have been happy with either of those as a great second choice.
+In the end, the Prius won fair and square.
 
 The Prius is a smaller car, so I sat in the back with the front seat
 slid fully back to be sure my son would fit in this vehicle when he
@@ -46,7 +48,7 @@ as real guilt. I really wanted this car. I was geeked about the tech.
 
 Driving home, this voice came to me, with clenched teeth,
 
-*"You bought this car because of your lust for technology!"*
+*You bought this car because of your lust for technology!*
 
 Next moment, I realized, that's not God. He doesn't talk that way.
 
@@ -94,10 +96,9 @@ also taken from me. But that's another story. Anyway, it hurt ... bad.
 Earlier this year, this voice came to me, no clenched teeth,
 but dripping sarcasm,
 
-*"Now you know how it feels!"*
+*Now you know how it feels!*
 
 It took a while, but then I realized, that's not God.
-									<
 He doesn't talk that way. God also doesn't throw things at us just to
 "pay us back" for having been hard on someone else. He doesn't force us
 into some sort of coerced empathy or faux sympathy.
@@ -114,6 +115,9 @@ corrupted nature, which in turn is because of our Edenic disobedience.
 
 I should probably have a blog post about that:
 DEATH IS NOT "JUST PART OF LIFE". Death is not part of God's creation.
+Next time you hear someone say, "death is just part of life", take them
+to task for that comment! Maybe they think that's helpful? IT'S NOT.
+And I'll be glad to share (verbally) "how it feels".
 
 The enemy twists truth.
 YES, I now know experientially how Dad felt.
@@ -125,20 +129,22 @@ God's plan moves past vengeance and doesn't stop until Glory.
 
 How do we learn God's voice?
 
-It's been said that bankers give tellers real money,
-lots of it, to handle, feel, touch, hold, so that they'll
-come to know the real thing. This is surely true in other industries.
+It's been said that bankers give tellers real money, lots of it, to
+handle, feel, touch, hold, so that they'll come to know the real thing.
+When they finally encounter a counterfeit, they just know because they
+"just know" the real thing. This is surely true in other industries.
 The "knowing" only comes with time and experience.
 
 For a short while, I taught high school Sunday school. I told the kids,
 about the Bible, "Just read it.". But not everyone can "just read"
 anything. I know that. I love those kids. Best thing I could impart
 was for them to actually spend personal time in God's Word.
+I so deeply hope they do, even if they don't "just read" stuff.
 
 As I write this, I realize that I've spent *a lot* of time in God's Word
 this year. Maybe I'm starting to recognize His Voice? Hope so. Tell you
 what, though, dear reader: you'd do well to seek out that Voice.
-Get into the Word. Read it. Read it often. Read more than just
+Get into the Word! Read it. Read it often. Read more than just
 the snippets you get in your favorite devotional. Read the Book.
 Learn the Voice.
 
