@@ -109,7 +109,8 @@ from me to force me to empathize more with Dad. In fact, He didn't
 our days are in His hands.
 
 There's been a lot of pain.
-After the pain, there is healing, and then there are some blessings.
+After the pain, there is healing, and then there are even new blessings.
+I'm learning how to breath again. Praise God!
 But death is not part of life. Death is the end result of a
 corrupted nature, which in turn is because of our Edenic disobedience.
 
