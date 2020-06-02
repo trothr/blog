@@ -24,11 +24,11 @@ Okie, dokie, thank ye, honey.
 The kids chimed in, "Let's go look at one of those hybrids
 you're so gah-gah about.". My family knows me too well.
 
-We needed a new car. The logical choice came down to one of
-Honda Accord, Toyota Camry (which I drive now, ironcally),
-or the Toyota Prius. That year, the Prius still had a premium.
-I wanted the Prius. I was willing to get the Camry or Accord,
-and would have been happy with either of those as a great second choice.
+We needed a new car. The logical choice came down to one of Honda Accord,
+Toyota Camry (which I drive now, ironcally, *and* which is now paid off,
+praise God!), or the Toyota Prius. That year, the Prius still had a premium.
+I wanted the Prius. I was willing to get the Camry or Accord, and would
+have been happy with either of those as a great second choice.
 
 The Prius is a smaller car, so I sat in the back with the front seat
 slid fully back to be sure my son would fit in this vehicle when he
