@@ -98,7 +98,6 @@ no clenched teeth, but dripping sarcasm,
 
 *Now you know how it feels!*
 
-									<
 It took a while, but then I realized, that's not God. He doesn't talk
 that way. It happened again! God also doesn't throw things at us just to
 "pay us back" for having been hard on someone else. He doesn't force us
