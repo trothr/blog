@@ -151,7 +151,7 @@ Learn the Voice.
 
 *"My sheep hear My voice, and I know them, and they follow Me.
 And I give them eternal life, and they shall never perish,
-neither shall anyone snatch them out of My hand."* -- John 10:26
+neither shall anyone snatch them out of My hand."* -- John 10:27,28
 
 2020-05-31 Sunday
 
