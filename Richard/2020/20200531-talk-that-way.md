@@ -104,7 +104,7 @@ He doesn't talk that way. God also doesn't throw things at us just to
 into some sort of coerced empathy or faux sympathy.
 
 It took a while, but I came to see that the Lord did not take Marilyn
-from me to force me to think about Dad's plight. In fact, He didn't
+from me to force me to empathize more with Dad. In fact, He didn't
 "take Marilyn" to punish me in any way at all. He took her because
 our days are in His hands.
 
