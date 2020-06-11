@@ -7,7 +7,7 @@ But I am still here. What now?
 ## A Really Cool Story
 
 What a great story it would have been if God healed Marilyn.
-God DOES work miracles. I want to let my friend snd family know about Him.
+God DOES work miracles. I want to let my friend and family know about Him.
 So I thought how great it would be for them to see a miracle.
 
 When Marilyn was first admitted to Wexner Medical Centar (Ohio State),
