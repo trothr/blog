@@ -9,6 +9,8 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20200610 You Write the Words](2020/20200610-write-the-words.md)
+
 ![20200531 God Doesn't Talk That Way](2020/20200531-talk-that-way.md)
 
 ![20200518 All In Again](2020/20200518-all-in-again.md)
