@@ -7,7 +7,7 @@ But I am still here. What now?
 ## A Really Cool Story
 
 What a great story it would have been if God healed Marilyn.
-God DOES work miracles. I want to let my friend and family know about Him.
+God DOES work miracles. I want to let my friends and family know about Him.
 So I thought how great it would be for them to see a miracle.
 
 When Marilyn was first admitted to Wexner Medical Centar (Ohio State),
@@ -48,7 +48,7 @@ My life is over ... but ... I'm still here. So what now?
 Since Marilyn's "graduation", things have slowly gotten better.
 I hit bottom. It hurt. My life ruined. My partner gone. Some would say
 there was nowhere else to go but up. Take care! The "bottom" can still
-drop out! I clung to my "mosh pit". I scrambled for help.
+drop out! I clung to my "mosh pit". I scrambled for help. God provided!
 
 It was back in January when I had that dream,
 initially kicking against something God was offering.
