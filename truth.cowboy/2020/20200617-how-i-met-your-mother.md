@@ -106,7 +106,7 @@ is more than just about sex. You're gonna need self-control throughout.
 The best advice?
 
 *Don't marry someone you can live with.
-Marry someone you _can't_ live without.*
+Marry someone you* _can't_ *live without.*
 
 That would be the answer to Marilyn's question:
 "I married you because I could not live without you."
