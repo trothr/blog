@@ -29,7 +29,9 @@ My friend's advice? Pursue righteousness.
 finds life, righteousness, and honor."* -- Prov 21:21
 
 This is our life as Christians: pursue Christ, pursue righteousness,
-pursue God's glory. (I Cor 10:31)
+pursue God's glory. (I Cor 10:31) While we must not exclude those who
+don't know Christ from our lives, we *must* align with Believers
+in things as intimate as our core circle.
 
 Guys, you'll be very interested in this:
 
@@ -42,8 +44,8 @@ But it's not all on the girls.
 If you want to be a godly man (in a relationship) go read-up on Boaz
 (Ruth chapter 2 and following), especially Ruth 3:10-11.
 Be that man! It's more than flowers and holding the door for her.
-Boaz really stepped up, attending to every detail in providing for Ruth
-and their son Obed was the father of Jesse and grandfather of King David,
+Boaz really stepped up, attending to every detail in providing for Ruth.
+Their son Obed was the father of Jesse and grandfather of King David,
 in the line of Christ.
 
 *"The fear of the Lord is the beginning of wisdom,
@@ -94,7 +96,7 @@ Find someone who will bear the same yoke as you've chosen. Oh the joy
 of carrying the load *together*.
 
 Once you've written that list, look at it.
-Be the person you're looking for (except for things which are clearly
+BE the person you're looking for (except for things which are clearly
 balancing traits, like someone who's good at math because you're not).
 Put effort into becoming what will bless your spouse. The fruit of the
 Spirit is the best thing to practice: love, joy, peace, patience,
@@ -108,24 +110,38 @@ The best advice?
 *Don't marry someone you can live with.
 Marry someone you **can't** live without.*
 
+Hang on. Let me be clear.
+We gotz problems with co-dependence in our culture ... big time.
+And as Christians, we MUST get our sufficiency from Christ.
+Don't elevate your spouse, or would be spouse, above God.
+And that's the most difficult thing about the whole deal,
+keeping our eyes on Him as we navitate life in this time and space.
+
+I like the way the slogan is worded because it emphasizes not "settling".
+Let your life reflect God's glory. Let your married life do so as well.
+Look for someone who's full-throttle AMAZING. That's what I want
+for my kids, someone who rocks their world, someone like their mom.
+
 That would be the answer to Marilyn's question:
 "I married you because I could not live without you."
-And life without her has been difficult.
+And life without her has been difficult, though I still have a pulse.
 
-Put that in context: remember the source of life.
-Don't elevate your spouse, or would be spouse, above God.
-And that's the most difficult thing about the whole deal.
 Find someone you "can't live without" in a practical sense.
 Be whole. Be complete. Be content. Don't set yourself up as needy.
 Then when you find someone who flips your world upside-down, go for it!
 
-Notice: I still have a pulse.
-(Though some might fairly question if I have any brain function.)
+My cousin and counselor Scott put it like this,
+"Marry someone you *should* live with":
+
+* because you are good with yourself, but they make you better,
+* because it is painful to live separate from them,
+* because you love them so deeply that you can't describe it,
+* because (most importantly) God called you to do so.
 
 God made most of us to live in union. (Gen 2:18)
 He made *all* of us to live in community. (Heb 10:24-25, Heb 13:1-2)
-Apologies to the hermits; you know who you are! To those who want to
-put yourselves out there, don't fear.
+Apologies to the hermits; you know who you are! But to those who want
+to put yourselves out there (you know who you are!), don't fear.
 
 2020-06-17 Wednesday
 
