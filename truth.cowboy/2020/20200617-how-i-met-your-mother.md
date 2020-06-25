@@ -19,9 +19,10 @@ But get ready!
 
 How do you prepare for this? In the circle where we reared my kids,
 "dating" was deferred in favor of "courting". That's a good goal.
-The culture would have you focus instead on temporary companionship:
-have a date for this event, be escorted to that gala or celebration.
-(Sam Cooke, "Another Saturday Night") Puh-leeze think more permanently.
+(As the song says, it's worth the sportin.)  The culture would have you
+focus instead on temporary companionship: have a date for this event,
+be escorted to that gala or celebration. (Sam Cooke, "Another Saturday Night")
+Puh-leeze think more permanently.
 
 My friend's advice? Pursue righteousness.
 
@@ -31,7 +32,8 @@ finds life, righteousness, and honor."* -- Prov 21:21
 This is our life as Christians: pursue Christ, pursue righteousness,
 pursue God's glory. (I Cor 10:31) While we must not exclude those who
 don't know Christ from our lives, we *must* align with Believers
-in things as intimate as our core circle.
+in things as intimate as our core circle. Someone you date (or court)
+is a potential life partner. Find someone righteous. BE someone righteous.
 
 Guys, you'll be very interested in this:
 
@@ -72,9 +74,9 @@ Do not date someone you would not consider marrying.
 
 *Seriously.*
 
-I mean that both ways: Do not date someone you would not seriously
-consider marrying. Also, seriously, do not date someone you would not
-consider marrying.
+I mean that both ways:
+Do not date someone you would not seriously consider marrying.
+And, seriously, do not date someone you would not consider marrying.
 
 Above all, do not marry someone who does not know the Lord.
 More than that, don't marry someone who isn't *pursuing* the Lord,
@@ -82,7 +84,7 @@ growing in Christ.
 
 Make a list. (check it twice)
 
-Considering someone you expect to live with for a long time,
+When considering someone you expect to live with for a long time,
 *think carefully* about what kind of person he or she might be.
 There are essentials. There are also "negotiables". If one of you likes
 Michael Jackson and the other likes Coldplay, that's okay. If it happens
@@ -96,7 +98,7 @@ Find someone who will bear the same yoke as you've chosen. Oh the joy
 of carrying the load *together*.
 
 Once you've written that list, look at it.
-BE the person you're looking for (except for things which are clearly
+BE the person you're looking for (except with things which are clearly
 balancing traits, like someone who's good at math because you're not).
 Put effort into becoming what will bless your spouse. The fruit of the
 Spirit is the best thing to practice: love, joy, peace, patience,
@@ -111,11 +113,11 @@ The best advice?
 Marry someone you **can't** live without.*
 
 Hang on. Let me be clear.
-We gotz problems with co-dependence in our culture ... big time.
+We've got lots of problems with co-dependence in our culture.
 And as Christians, we MUST get our sufficiency from Christ.
 Don't elevate your spouse, or would be spouse, above God.
 And that's the most difficult thing about the whole deal,
-keeping our eyes on Him as we navitate life in this time and space.
+keeping our eyes on Him as we navigate life in this time and space.
 
 I like the way the slogan is worded because it emphasizes not "settling".
 Let your life reflect God's glory. Let your married life do so as well.
