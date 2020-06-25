@@ -145,6 +145,9 @@ He made *all* of us to live in community. (Heb 10:24-25, Heb 13:1-2)
 Apologies to the hermits; you know who you are! But to those who want
 to put yourselves out there (you know who you are!), don't fear.
 
+And don't sweat the exploding bedrooms or prepping problems.
+(If you need help tying a necktie, gimme a call. I'll help.)
+
 2020-06-17 Wednesday
 
 
