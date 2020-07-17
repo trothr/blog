@@ -53,7 +53,7 @@ In fact, my delay had several significant negative effects.
 
 I was busy enough with a new job that I didn't really notice.
 But I didn't go deep, didn't mentally unpack things that were too painful
-and which I had no reference or context. People suffer loss every day.
+and for which I had no reference or context. People suffer loss every day.
 It hurts to think about. Most of us would like to box it in a corner
 or make it go away. (But how do you "make it go away"? Can't get
 your loved one back.)
@@ -62,7 +62,7 @@ Boxing the grief, putting it off, forcing it into the back corner,
 only serves to let the pain fester. That's not healthy.
 
 I remember, early after Marilyn's "graduation", wanting my life back.
-I was so angry, probably knowing sub-consciously that it simply could
+I was so angry, probably knowing subconsciously that it simply could
 not happen. Resolution lay in a different direction.
 
 At some point, I took the direction of true remedy. God provided
