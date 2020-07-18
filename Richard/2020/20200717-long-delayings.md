@@ -98,7 +98,7 @@ not happen. Resolution lay in a different direction.
 At some point, I took the direction of true remedy. God provided
 several streams of support. I embraced all of them. God delivered me!
 I was first no longer angry. Then slowly began to have peace, then joy,
-and how happiness. I'm actually HAPPY most days. In fact, at this point,
+and now happiness. I'm actually HAPPY most days. In fact, at this point,
 the only significant pain I have is for family who are still hurting.
 
 If you've lost someone, get help. Maybe find a Grief Share group.
