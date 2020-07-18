@@ -7,6 +7,9 @@ Don't wait for someone to come grab you. Many friends and family
 just don't know that they should do something, *what* to do,
 nor even that they *can* help.
 
+Here, I'm talking about loss of a loved one from this life.
+Bear in mind there are other losses, most of which need grieving.
+
 ## When Mom Died
 
 When my mom "graduated", Dad got help.
@@ -29,12 +32,26 @@ to also "get healed": we needed healing!
 
 Dad's innocent appeal was lost to my ignorance and misjudging.
 
+To do nothing does not heal.
+Some say "time heals", but time alone DOES NOT HEAL.
+My own inaction after we lost my mom only allowed the pain of others
+to persist. There's a ripple effect from everything we do (or do not).
+
 ## Getting Healing
 
 I lost Marilyn in December. That grieving process has consumed a lot
 of time and energy. My life was shattered. It has taken the support of
 DOZENS of friends and family. But it is happening. The changes are
 profound and surprising, but all good.
+
+I've been told that I've worked hard, but I cannot take credit.
+It was the constant support of family and friends. It was (and I don't
+mean this in some mystical way) the Word of God soothing the scar.
+
+Chelle and Martin were a huge help, from defending me against "triggers"
+to intervening in family fights. They were with me in coping with
+funeral plans. They've been with me in selecting Marilyn's monument.
+But they're victims too. Supportive co-victims need help too.
 
 One surprising thing is that it appears that I had not grieved Mom
 until I also lost Marilyn. Why did I put it off? Oh yeah; see the
@@ -46,13 +63,19 @@ I recommended the Grief Share organization to him. After all this time,
 he's doubtful it would help. But he *did* get other help. Not as if he
 put things off. He got help, still does.
 
+Losing my wife sent me into a tailspin. I was so angry. I could have
+said to any supporting friend, "What do you care?". But to reject the
+helping hand is to suck the love out of your friend for no good reason.
+
 ## Don't Delay
 
-When I put-off grieving Mom's passing, it didn't help anything or anyone.
-In fact, my delay had several significant negative effects.
+When I put-off grieving Mom's passing, it did no good for anyone.
+In fact, my delay had several significant negative effects. From my
+experience, I urge you, don't let your suffering set there, the anguish
+to be dredged up later, because it will. You have a life to live.
 
 I was busy enough with a new job that I didn't really notice.
-But I didn't go deep, didn't mentally unpack things that were too painful
+I didn't go deep, didn't mentally unpack things that were difficult
 and for which I had no reference or context. People suffer loss every day.
 It hurts to think about. Most of us would like to box it in a corner
 or make it go away. (But how do you "make it go away"? Can't get
@@ -60,6 +83,9 @@ your loved one back.)
 
 Boxing the grief, putting it off, forcing it into the back corner,
 only serves to let the pain fester. That's not healthy.
+
+NOW is the optimum time to call for help.
+TODAY is the day to take steps.
 
 I remember, early after Marilyn's "graduation", wanting my life back.
 I was so angry, probably knowing subconsciously that it simply could
@@ -72,9 +98,10 @@ and how happiness. I'm actually HAPPY most days. In fact, at this point,
 the only significant pain I have is for family who are still hurting.
 
 If you've lost someone, get help. Maybe find a Grief Share group.
-Maybe see a counselor or psychologist. Possibly visit with your pastor.
-But don't put it off! And don't assume, as I did, that offers of help
-come with strings or hidden agendas.
+Maybe see a Christian counselor or psychologist. Possibly visit with your
+pastor. But don't put it off! And don't assume, as I did, that offers of
+help come with strings or hidden agendas. Know instead that they come
+with love.
 
 2020-07-17 Friday
 
