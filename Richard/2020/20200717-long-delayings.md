@@ -74,6 +74,10 @@ In fact, my delay had several significant negative effects. From my
 experience, I urge you, don't let your suffering set there, the anguish
 to be dredged up later, because it will. You have a life to live.
 
+Let me state that more strongly: It does not honor your late loved one
+for you to linger in the loss. In fact, it DISHONORS the one you've
+lost to maintain misery or to persist in pain.
+
 I was busy enough with a new job that I didn't really notice.
 I didn't go deep, didn't mentally unpack things that were difficult
 and for which I had no reference or context. People suffer loss every day.
