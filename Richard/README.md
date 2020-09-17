@@ -9,6 +9,8 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20200916 Susan and me](2020/20200916-susan-and-me.md)
+
 ![20200717 Long Delayings](2020/20200717-long-delayings.md)
 
 ![20200610 You Write the Words](2020/20200610-write-the-words.md)
