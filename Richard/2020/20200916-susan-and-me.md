@@ -21,10 +21,11 @@ She was gracious: "I don't like it, but I understand.".
 
 When Grief Share at my own church was not yet starting,
 I looked around for another "safe" GS group. Cedarville, sure.
-Close enough and likely to be "safe". I contacted the leader
-of that group. She said they were also not yet starting because
-she had been in the hospital. I asked how I could pray for her:
-double pneumonia, sepsis, and abscessed lung. Wow, "I'll pray for you.".
+Close enough and likely to be "safe". I've always been fond of the
+university, so I contacted the leader of that group. She said they were
+also not yet starting because she had been in the hospital. I asked how
+I could pray for her: double pneumonia, sepsis, and abscessed lung.
+Wow, "I'll pray for you.".
 
 When both groups started, I was still curious about the Cedarville
 group, so I went. The leader welcomed me. I asked if it was okay
