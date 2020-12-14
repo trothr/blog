@@ -14,7 +14,9 @@ There have been many tributes. This tribute is rather intimate.
 
 ## latest journal entries
 
-![20200420 Jackpot](2020/20200420-jackpot.md)
+![20201214 The Beauty](2020/20201214-the-beauty.md)
+
+![20200530 Jackpot](2020/20200530-jackpot.md)
 
 ![20200416 The New November](2020/20200416-november.md)
 
