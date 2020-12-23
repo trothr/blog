@@ -9,6 +9,8 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20201222 Lightning Strikes Twice](2020/20201222-lightning-strikes-twice.md)
+
 ![20200916 Susan and me](2020/20200916-susan-and-me.md)
 
 ![20200717 Long Delayings](2020/20200717-long-delayings.md)
