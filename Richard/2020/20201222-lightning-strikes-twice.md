@@ -46,21 +46,21 @@ I wrote down a number of things that are important, what kind of person
 I should relate to.
 
 Susan matched every item, and then some.
-I remain astonished.
+I remain astonished. Lightning strikes twice when God says so.
 
-People, receive what God provides.
+People, hear me: receive what God provides.
 As He provided a second time in my life, I embraced her.
 Words fail. Knowing Susan is not something I did on my own.
 It's incredible to see how He brought us together. Wow!
 
-Why am I so blessed?
+*Why am I so blessed?*
 I don't deserve it. I see so many who are hurting, and I get it.
 But God is bigger than our loss, bigger than our brokenness.
 If He can take away our sin, He can certainly heal our hearts.
 
 ## Repurpose
 
-One thing lost, even before Marilun got sick, was my sense of purpose.
+One thing lost, even before Marilyn got sick, was my sense of purpose.
 The Lord restored my purpose early this year and late last year.
 I want to point to Him and help those who are going through stuff.
 
