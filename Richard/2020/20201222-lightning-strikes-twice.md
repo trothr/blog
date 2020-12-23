@@ -45,8 +45,8 @@ As I moved through recovery and started to think about relationship,
 I wrote down a number of things that are important, what kind of person
 I should relate to.
 
-Susan matched every item, and then some.
-I remain astonished. Lightning strikes twice when God says so.
+Susan matched every item, and then some!
+I am astonished. Lightning strikes twice when God says so.
 
 People, hear me: receive what God provides.
 As He provided a second time in my life, I embraced her.
