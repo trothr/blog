@@ -1,7 +1,9 @@
 # Lightning Strikes Twice
 
 Yesterday marked one year since we buried Marilyn.
-It's been a rough year. I'm okay now, and can reflect on the joys
+It's been a rough year.
+
+I'm okay now, and can reflect on the joys
 that I've known and can embrace more of what God has provided.
 
 ## Remembering
@@ -57,6 +59,7 @@ It's incredible to see how He brought us together. Wow!
 I don't deserve it. I see so many who are hurting, and I get it.
 But God is bigger than our loss, bigger than our brokenness.
 If He can take away our sin, He can certainly heal our hearts.
+Let Him.
 
 ## Repurpose
 
