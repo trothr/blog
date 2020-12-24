@@ -34,6 +34,7 @@ Some of these new friends became very special. Significantly,
 Susan Plemons led the Grief Share group in Cedarville. We had a lot
 in common, but most importantly: she loves the Lord.
 Her joy in her faith is contagious. Her commitment is deep.
+We began working together.
 
 Susan and I turned out to have an amazing number of things in common,
 from the places we had lived to our love for Chicago (the band).
