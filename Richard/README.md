@@ -9,6 +9,8 @@ so this space is named Richard.
 
 ## latest journal entries
 
+![20210124 Brian Sings](2021/20210124-brian-sings.md)
+
 ![20201227 Gettin Hitched](2020/20201227-gettin-hitched.md)
 
 ![20201222 Lightning Strikes Twice](2020/20201222-lightning-strikes-twice.md)
