@@ -50,7 +50,18 @@ He's in the presence of Jesus, with no pain and no tears.
 If Brian can sing, then I can too!
 I prayed for Trent, then txted him also.
 
+Pastor Dave struggled to finish his sermon. At the end, he mentioned
+Brian's faith and legacy. The sermon was on Colossians 1:19-29.
+The second half of verse 27 is a life verse for Brian.
+
+Pastor Jerry struggled to get through the announcements.
+
+After the service we saw Trent and Jerry and Dave.
+I told them what the Lord reminded me of: Brian is in Glory.
+
 -- R; <><
+
+https://www.hopeofglorychristinmebriankinnett.com/
 
 2021-01-24 Sunday
 
