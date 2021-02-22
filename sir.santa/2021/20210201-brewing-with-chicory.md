@@ -62,14 +62,14 @@ then copy ...
     http://nico.casita.net/pub/nano/nano-5.5.mak  as  "makefile"
     http://nico.casita.net/pub/opt.setup.sh  as  "setup"
 
- ... and then do (at least) the following
+ ... and then do (at least) the following ...
 
     make source
     make config
     make
     make install
 
-If you don't have a writable `/usr/opt` then the "make install" step will fail.
+If you don't have a writable `/usr/opt` then the `make install` step will fail.
 The `/usr/opt` directory is the core of the Chicory scheme. I usually create it
 as root and `chmod 1777` so that unprivileged users can play too. 
 
@@ -78,7 +78,7 @@ If the Nano build worked, then you can ...
     make distclean
     ./setup
 
- ... and then find `nano` at `/usr/opt/nano/bin/nano`.
+ ... and then also find `nano` at `/usr/opt/nano/bin/nano`.
 
 If the `setup` script were run with privileges,
 you'd also find `nano` at `/usr/local/bin/nano`.
