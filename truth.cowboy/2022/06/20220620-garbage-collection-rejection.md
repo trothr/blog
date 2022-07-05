@@ -42,7 +42,9 @@ Galatians 5:9 says, "A little leaven leavens the whole lump.".
 But I John 1:9 says, "If we confess our sins, He is faithful and just
 to forgive us our sins and to cleanse us from all unrighteousness.".
 
--- R; &lt;&gt;&lt
+Don't be a garbage collection rejector.
+
+-- R; &lt;&gt;&lt;
 
 original draft 2022-06-20
 
