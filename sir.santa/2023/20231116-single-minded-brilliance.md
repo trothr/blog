@@ -66,6 +66,7 @@ mindset cannot be overstated and is lost on most contemporary efforts.
 
 And then came Linus Torvalds. <br/>
 As of this writing, the wunderkind is 53, not a kid anymore.
+The Linux kernel is another single-minded brainchild.
 
 ## Sunny Results
 
