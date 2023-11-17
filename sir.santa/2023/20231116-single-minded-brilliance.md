@@ -1,0 +1,72 @@
+# Single Minded Brilliance
+
+I heard Dave Cutler criticize Unix as not produced by one person,
+implying that a group of PhDs had come up with a disjoint system.
+
+Then I heard David Brailsford praise Unix as a "most amazing
+operating system" which sprung from the mind of one man (Ken Thompson).
+
+## Community Code
+
+I'm a fan of Unix. <br/>
+I'm content with its imperfections. <br/>
+I'm delighted with its ubiquity and find it "sufficient".
+
+It's no secret that Cutler hates Unix.
+Even so, I'm a fan of him too. (The man is brilliant.)
+
+Brailsford described Unix as created
+"by computer scientists; for computer scientists".
+That might sound self-serving, but it's not: the system fit the mindset
+of programmers, allowing them to be more productive (or at least
+more comfortable). Over time, most of the better designs sprang from
+that platform.
+
+Brailsford said Unix "did everything just right".
+This was my experience too. And where there were gaps, they could
+fill-in with applications from the community ... and did.
+
+## Death Day Development
+
+A notable systems programmer from my own past was asked how long
+a particular project would take. He said "one death day". A death day
+was essentially a 24-hour period. College students sometimes engage in
+24-hour contests. (After age 25 years, I found that all-nighters got
+more and more difficult.)
+
+Unix version zero was written, as Brian Kernigan tells the story,
+in just three weeks. Thompson leveraged a DEC PDP 7, already obsolete
+at that time, to investigate improved performance of filesystems.
+Unix already existed (the name derived from MULTICS, but that's a story
+for another time). His wife Bonnie was on a three week trip visiting family.
+The system needed a handful of improvements: a shell, an editor, and an
+assembler, each of which was done in one week. This matched his wife's trip.
+
+The PDP 7 provided a whopping 8K words (about 16K bytes). <br/>
+Eventually the group managed to acquire a DEC PDP 11, and the rest
+is history.
+
+## References
+
+Brailsford remembers the Unix revolution
+
+https://www.youtube.com/watch?v=-rPPqm44xLs
+
+Brian Kernighan discusses the early days of Unix at Bell Labs
+
+https://www.youtube.com/watch?v=ECCr_KFl41E
+
+Dave Plummer interviews Dave Cutler, *three hours long* but excellent
+
+https://www.youtube.com/watch?v=xi1Lq79mLeE
+
+About an hour and five minutes into this last one, Cutler blames
+the universities for Unix disparity, and he's right. But the inclusion
+of universities was a major driving factor supporting the Unix community.
+
+And, no, not everything is a file. <br/>
+And object oriented is similarly not a be-all end-all.
+
+2023-11-16 Thursday
+
+
