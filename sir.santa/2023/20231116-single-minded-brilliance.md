@@ -46,6 +46,20 @@ The PDP 7 provided a whopping 8K words (about 16K bytes). <br/>
 Eventually the group managed to acquire a DEC PDP 11, and the rest
 is history.
 
+## Bright Boys
+
+Cutler is credited with creating Windows NT. <br/>
+Before coming to Microsoft and leading the NT development, he was at DEC
+and drove the VMS project. Prior to that, he headed up RSX-11 development.
+There are few men who have such a resume.
+
+If Cutler is the father of NT, Thompson is the father of Unix.
+Dennis Ritchie was his partner in crime, but he leaned more into C.
+
+The point of this post is to highlight the consistency originally found
+in Unix. The value of small teams led by smart people with a "system"
+mindset cannot be overstated and is lost on most contemporary efforts.
+
 ## References
 
 Brailsford remembers the Unix revolution
