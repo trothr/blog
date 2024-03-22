@@ -3,16 +3,16 @@
 Somebody please make it stop! <br/>
 I get these. Not often, but more often than I should.
 
+You know what I'm talking about: email or some other message telling you
+that you have a secure message and now must do thus-and-so to read it.
+
 They invariably lead me to some *other* service,
 which kinda grates against the whole idea of email.
 I use an email "client". Think MS Outlook or Mozilla Thunderbird.
 
-I got another just yesterday, so I got annoyed and decided to say
-something.
+I got another of these just yesterday,
+so I got annoyed and decided to say something.
 
-[below]
-And I know what's in that latest message:
-I had used my HSA card to pay for a prescription.
 
 
 ## You have received a secure message from ...
@@ -20,7 +20,7 @@ I had used my HSA card to pay for a prescription.
 Say there's a certain party that I do business with.
 Maybe it's the insurance company. Maybe it's the doctor.
 I appreciate that they want to keep our correspondence private.
-Thank you! Sincerely. But you can do better.
+Thank you! Sincerely. But, providers, you can do better.
 You really *should* do better.
 
 The trouble with most "secured" services is that they make you
@@ -30,11 +30,12 @@ is one sided: my financial advisor can send and receive secure email
 to/from me, but on his end it's integrated, built-into the interface
 that he uses. (E.g., an Outlook plug-in or something similar)
 It's only *my* side where I have to break out of whatever I normally do
-and go to his special super-secure site and jump through hoops.
+and go to his special super-secure site and re-authenticate.
 
 \* I say "inconvenience" but it's more than just hassle.
 It's a time sink, and it's potentially *less* secure because of
-the complexity. (More things to get wrong.)
+the complexity. (More things to get wrong.) Complexity is corrosive
+to security.
 
 Maybe it was subconscious that the in-house operation (for the financial
 advisor example) would be built-into his email. Or maybe the IT department
@@ -87,6 +88,14 @@ from my ergonomic armchair and come in-person to your office
 or branch location. I'll give you my PGP public key. You'll know
 beyond any doubt that it's *mine* at least as well as you know
 I'm the actual human opening the account.
+
+I know what's in that latest message:
+I had used my HSA card to pay for a prescription.
+The card issuer is simply confirming the transaction.
+And, again, it's legit that it should be kept private.
+But the level of effort is way out of line with the significance
+of the message. Give me PGP and the "work" (on my end) would
+immediately fall back to a proportionate level.
 
 ## More to Say
 
