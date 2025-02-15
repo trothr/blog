@@ -118,6 +118,13 @@ The story is the same with PKI, except that we talk about "certificates"
 (which actually contain public keys). The added burden in the PKI model
 is the ultimate authority is outsourced to your CA (Certificate Authority).
 
+I remember the pain our customers endured when I was with Voltage Security.
+While our product rendered their data safe, they still had to turn the crank
+at intervals and follow the dictates of their CA. The appliance served
+as a solid trust anchor, but it required one or more PKI keys for client
+assurance, trust, security, and privacy. (Subsequent key management was
+*vastly* easier thanks to the features and function of the appliance.)
+
 ## It's All About Trust
 
 Key management is hard. <br/>
