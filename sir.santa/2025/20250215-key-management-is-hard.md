@@ -47,7 +47,7 @@ which is the "detached signature". (The deliverable remains the same.)
 Download both files and confirming a signature is easy.
 Suppose that you have the latest version of Musl Libc.
 On any Linux system, and most Unix-like systems, you can easily use
-GPG (GnuPG, the Gnu Privacy Guard\*), like this:
+GPG (GnuPG, the Gnu Privacy Guard)\*, like this:
 
     gpg --verify musl-1.2.5.tar.gz.asc
 
@@ -62,6 +62,9 @@ So now it's just a matter of acquiring and vetting the signing keys.
 
 \* We're talking about the PGP ecosystem even though I use GPG to do
 the work. There are (now) many implementations of PGP-compatible logic.
+It's not that cryptography is easy as much as that the cryptography
+has long since been distilled into software. (GPG being one of the
+packages that I insist on building from source.)
 
 ## Always Sign Your Work
 
@@ -127,6 +130,10 @@ at intervals and follow the dictates of their CA. The appliance served
 as a solid trust anchor, but it required one or more PKI keys for client
 assurance, trust, security, and privacy. (Subsequent key management was
 *vastly* easier thanks to the features and function of the appliance.)
+
+For what it's worth, OpenSSL and LibreSSL are two packages that,
+like GPG, I insist on building from source. I also have a home-grown CA.
+But I think I'm getting off track; sorry.
 
 ## It's All About Trust
 
