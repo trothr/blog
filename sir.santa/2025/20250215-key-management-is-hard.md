@@ -5,8 +5,11 @@ Key management is hard. <br/>
 It's true. Here's why and how.
 
 The slogan itself I learned from Voltage Security when I worked there.
-This is a group focused on data protection. For them it's a "been there
-/ done that" kind of thing. They know of what they speak.
+									.
+The Voltage group (which was aquired by HP, then part of HPE, then Micro
+Focus, and lately under Open Text) is focused on data protection. For them,
+cryptography and key management make for a "been there / done that"
+kind of thing. They know of what they speak.
 
 ## Crypto is Easy
 
@@ -15,9 +18,9 @@ I have put in several hours taking inventory of cryptographic keys
 used for code signing. It's tedious work. I was reflecting on that.
 
 For better or worse, I (still) maintain a good sized body of software
-that I acquire in source form. Whenever there is an update to one of
-these packages, I snag the latest source code, explode the archive
-(in English, I un-tar the TAR file), run the configurator, then `make`.
+acquired in source form. Whenever there is an update to one of these
+packages, I snag the latest source code, explode the archive (in English,
+I un-tar the TAR file), run the configurator, then `make`.
 This is a terrible time sink, but is arguably justified, yet that
 argument will have to wait for another time and another journal post.
 
@@ -28,18 +31,18 @@ I learned about "open source software" or what is often called FLOSS
 It was educational to review programs others had written and the
 universities ate it up. Over time, more packages were added,
 and more and more were improved, with the effect that a complete
-viable operating system resulted. (But further discussion of that
-is also for another jornal post.)
+viable operating system resulted. (But further discussion of *that*
+is also for another journal post.)
 
 I noticed several years ago that many of the package maintainers
-would sign the tarball (or zip file or whatever) using PGP. Having been
-involved in the PGP ecosystem, I was happy to see this: not only that
-those handling the code cared to perform signing of their wares, but
-especially that they were using PGP (or GPG) where the web of trust
-is based on individuals rather than on organizations (as with PKI
-code signing).
+began to sign the tarball (or zip file or whatever) using PGP.
+Having been involved in the PGP ecosystem, I was happy to see this:
+not only that those handling the code cared to perform signing of
+their wares, but especially that they were using PGP (or GPG) where
+the web of trust is based on individuals rather than on organizations
+(as with PKI code signing).
 
-When you download from these web sites, there is often a second file
+When you download these sources, there is often now a second file
 which is the "detached signature". (The deliverable remains the same.)
 Download both files and confirming a signature is easy.
 Suppose that you have the latest version of Musl Libc.
@@ -52,7 +55,7 @@ GPG takes the full filename as that of the detached signature,
 then removes the final extension to derive the name of the signed file.
 So it compares `musl-1.2.5.tar.gz` with signature `musl-1.2.5.tar.gz.asc`.
 If the signature looks valid, GPG says so. If you have the matching
-public key (in your "keyring"), GPG can conform or deny authenticity.
+public key (in your "keyring"), GPG can confirm or deny authenticity.
 
 I added logic a long time ago to my own build scripts to check signatures.
 So now it's just a matter of acquiring and vetting the signing keys.
@@ -140,7 +143,7 @@ involves documented manual effort, the PKI model is not free of it.
 
 Keys are cheap! Trust is where the value lies.
 But electronic trust is wired to the keys. Many security professionals
-endorce key rotation, and some CAs enforce it. Even so, can you bear
+endorse key rotation, and some CAs enforce it. Even so, can you bear
 the cost of re-signing objects when your signing key gets changed?
 Think about it. It may be more effective to generate more keys
 and revoke instead of expiring.
@@ -154,7 +157,7 @@ used for building it. It's work. I thought, "Why am I doing this?".
 It's exhausting to have to choose for each key "do I trust this one?".
 But I immediately remember that there is no easy way.
 
-It's all abou trust.
+It's all about trust.
 
 2025-Feb-15 Saturday
 
