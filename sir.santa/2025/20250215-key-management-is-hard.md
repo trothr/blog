@@ -5,8 +5,7 @@ Key management is hard. <br/>
 It's true. Here's why and how.
 
 The slogan itself I learned from Voltage Security when I worked there.
-									.
-The Voltage group (which was aquired by HP, then part of HPE, then Micro
+The Voltage group (which was acquired by HP, then part of HPE, then Micro
 Focus, and lately under Open Text) is focused on data protection. For them,
 cryptography and key management make for a "been there / done that"
 kind of thing. They know of what they speak.
@@ -26,8 +25,8 @@ argument will have to wait for another time and another journal post.
 
 I've been doing this for a long time.
 What started as a hobby has persisted to this day.
-I learned about "open source software" or what is often called FLOSS
-(for free/libre open source software) when I worked in academia.
+I first learned about "open source software" or what is often called
+FLOSS (for free/libre open source software) when I worked in academia.
 It was educational to review programs others had written and the
 universities ate it up. Over time, more packages were added,
 and more and more were improved, with the effect that a complete
@@ -44,10 +43,10 @@ the web of trust is based on individuals rather than on organizations
 
 When you download these sources, there is often now a second file
 which is the "detached signature". (The deliverable remains the same.)
-Download both files and confirming a signature is easy.
+When you download both files, then confirming the signature is easy.
 Suppose that you have the latest version of Musl Libc.
-On any Linux system, and most Unix-like systems, you can easily use
-GPG (GnuPG, the Gnu Privacy Guard)\*, like this:
+On any Linux system, and most Unix-like systems, you can easily
+invoke GPG (GnuPG, the Gnu Privacy Guard)\*, like this:
 
     gpg --verify musl-1.2.5.tar.gz.asc
 
@@ -59,6 +58,7 @@ public key (in your "keyring"), GPG can confirm or deny authenticity.
 
 I added logic a long time ago to my own build scripts to check signatures.
 So now it's just a matter of acquiring and vetting the signing keys.
+Aye ... there's the rub ... not the acquiring but the vetting.
 
 \* We're talking about the PGP ecosystem even though I use GPG to do
 the work. There are (now) many implementations of PGP-compatible logic.
@@ -152,8 +152,8 @@ Keys are cheap! Trust is where the value lies.
 But electronic trust is wired to the keys. Many security professionals
 endorse key rotation, and some CAs enforce it. Even so, can you bear
 the cost of re-signing objects when your signing key gets changed?
-Think about it. It may be more effective to generate more keys
-and revoke instead of expiring.
+Think about it. It may be more effective to generate more keys,
+let them persist longer, and revoke instead of expiring.
 
 Anyway ... I was reminded of all this as I sank several hours of my life
 into (what seemed like) pointless extraction, reviewing, and verifying
