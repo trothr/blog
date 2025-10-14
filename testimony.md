@@ -122,6 +122,10 @@ Believe it!
 Swallow your pride: don't make it more complicated. 
 Abandon your shame: own up to the truth. It really will set you free. 
 
+"* ... if you confess with your mouth Jesus as Lord 
+and believe in your heart that God raised Him from the dead 
+you will be saved*" -- Romans 10:9 NASB 
+
 -- R; &lt;&gt;&lt;
 
 
