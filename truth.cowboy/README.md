@@ -13,8 +13,9 @@ Some entries for the Truth Cowboy blog may also be found on Blogspot.com.
 
 https://rick-troth.blogspot.com/
 
-
 ## latest journal entries
+
+![20260809 Let Me Know You're There](2026/CABG/20260809-letmeknow.md)
 
 ![20200617 How I Met Your Mother](2020/20200617-how-i-met-your-mother.md)
 
