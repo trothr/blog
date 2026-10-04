@@ -28,7 +28,9 @@ I was not always a Christian, and I'm no saint in the parochial sense,
 but I have come to see the freedom in righteous living. I mean this in the
 Judeo-Christian sense: sexual purity, sure, but also fair treatment of others,
 even mundane things like common courtesy and following traffic laws.
-(Though I confess the speed limit can be a challenge.)
+(Though I confess the speed limit can be a challenge.) It's probably
+more clear to call me a "Christ follower", but see below for
+clarification of what it means to be a Christian.
 
 The "tug" goes against this, especially regarding sexuality.
 It's as if any suggestion of restraint imposes on the liberty of some other.
@@ -91,8 +93,8 @@ Whether something is liberal or conservative depends on the societal context.
 In the tug-of-war of loosening morals in the US, following Godly direction
 naturally looks conservative.
 
-Conservatism in and of itself is no worthy goal.
-Its value is merely in conserving something good or healthy or valuable.
+Conservatism in and of itself is a fine goal, but it's not an end itself.
+Its value is merely in *conserving* something good or healthy or valuable.
 200 years ago (plus and minus several decades) many Christians fought to
 abolish the slave trade. That would have been the *liberal* position of the time.
 
